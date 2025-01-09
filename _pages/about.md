@@ -17,3 +17,4 @@ My research focuses on developing human-centred Ambient Assisted Living (AAL) te
 - Thermally comfortable and energy-efficient environments
 
 
+This site is actively being developed. 

@@ -1,9 +1,9 @@
 ---
-title: "3.	Sensors, Techniques and Future Trends of Human Engagement Enabled Applications: A Review."
+title: "Sensors, Techniques and Future Trends of Human Engagement Enabled Applications: A Review."
 collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+# excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2024-12-06
 venue: 'Algorithms'
 paperurl: ' https://doi.org/10.3390/a17120560'

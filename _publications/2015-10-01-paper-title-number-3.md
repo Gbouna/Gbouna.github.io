@@ -3,7 +3,7 @@ title: "Sensors, Techniques and Future Trends of Human Engagement Enabled Applic
 collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
-# excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: 'Keywords: human engagement; sensor-based systems; engagement estimation techniques; literature review.'
 date: 2024-12-06
 venue: 'Algorithms'
 paperurl: ' https://doi.org/10.3390/a17120560'

@@ -1,9 +1,11 @@
 ---
 title: "Eyes on nature: Embedded vision cameras for terrestrial biodiversity monitoring"
 collection: publications
-category: Journal
-excerpt: 'Eyes on nature.'
+category: manuscripts
+permalink: /publication/Eyes on nature
+excerpt: 'Eyes on nature'
 date: 2024-10-28
+venue: 'Methods in Ecology and Evolution'
 paperurl: 'https://doi.org/10.1111/2041-210X.14436'
 citation: 'Darras, K. F. A., Balle, M., Xu, W., Yan, Y., Zakka, V. G., Toledo-Hernández, M., Sheng, D., Lin, W., Zhang, B., Lan, Z., Fupeng, L., & Wanger, T. C. (2024). Eyes on nature: Embedded vision cameras for terrestrial biodiversity monitoring. Methods in Ecology and Evolution, 15, 2262–2275. https://doi.org/10.1111/2041-210X.14436'
 ---

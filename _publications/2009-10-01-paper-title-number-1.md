@@ -1,5 +1,5 @@
 ---
-title: "1	Action Recognition in Real-World Ambient Assisted Living Environment"
+title: "Action Recognition in Real-World Ambient Assisted Living Environment"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-01-11-paper-title-number-1

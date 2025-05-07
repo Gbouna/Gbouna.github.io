@@ -9,28 +9,16 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-{% include base_path %}
+## Journal Articles
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+1. **Author1, A.**, Author2, B., & Author3, C. (Year). Title of the article. *Journal Name*, *Volume*(Issue), page-range. [DOI/URL]
 
+2. **Author1, A.**, & Author4, D. (Year). Another article title. *Another Journal*, *Volume*(Issue), page-range. [DOI/URL]
 
+## Conference Papers
 
+1. **Author1, A.**, Author2, B., & Author5, E. (Year). Conference paper title. In *Proceedings of Conference Name* (pp. page-range). Publisher. [DOI/URL]
+
+## Book Chapters
+
+1. **Author1, A.** (Year). Chapter title. In Editor1, E. & Editor2, F. (Eds.), *Book Title* (pp. page-range). Publisher. [DOI/URL]

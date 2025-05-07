@@ -22,9 +22,9 @@ repository               : "Gbouna/Gbouna.github.io"
 author:
   # Biographic information
   avatar           : "vincent.png"
-  name             : "Vincent Gbouna Zakka"
+  # name             : "Vincent Gbouna Zakka"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  # bio              : "Short biography for the left-hand sidebar"
   location         : "Birmingham, UK"
   employer         : "Aston University"
   uri              : # URL

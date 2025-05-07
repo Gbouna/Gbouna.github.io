@@ -13,17 +13,17 @@ author_profile: true
 
 1. **Zakka, V. G.**, Dai, Z., & Manso, L. J. (2025). Action Recognition in Real-World Ambient Assisted Living Environment. *Journal of Big Data Mining and Analytics*. [arXiv preprint](https://arxiv.org/abs/2503.23214) (Accepted)
 
-2. Cui, X., Lee, M., Uddin, M. N., Zhang, X., & **Zakka, V. G.** (2025). Analysing different household energy use patterns using clustering and machine learning. *Renewable and Sustainable Energy Reviews*, 115335. [DOI](https://doi.org/10.1016/j.rser.2025.115335)
+2. Cui, X., Lee, M., Uddin, M. N., Zhang, X., & **Zakka, V. G.** (2025). Analysing different household energy use patterns using clustering and machine learning. *Renewable and Sustainable Energy Reviews*. [DOI](https://doi.org/10.1016/j.rser.2025.115335)
 
-3. Dai, Z., **Zakka, V. G.**, Manso, L. J., Rudorfer, M., Bernardet, U., Zumer, J., & Kavakli-Thorne, M. (2024). Sensors, Techniques and Future Trends of Human Engagement Enabled Applications: A Review. *Algorithms*, 17(12), 560. [DOI](https://doi.org/10.3390/a17120560)
+3. Dai, Z., **Zakka, V. G.**, Manso, L. J., Rudorfer, M., Bernardet, U., Zumer, J., & Kavakli-Thorne, M. (2024). Sensors, Techniques and Future Trends of Human Engagement Enabled Applications: A Review. *Algorithms*, 17(12). [DOI](https://doi.org/10.3390/a17120560)
 
 4. Darras, K., Balle, M., Xu, W., Yan, Y., **Zakka Gbouna, V.**, Toletdo, M., ... & Wanger, T. (2024). Eyes on nature: Embedded vision cameras for terrestrial biodiversity monitoring. *Methods in Ecology and Evolution*. [DOI](https://doi.org/10.1111/2041-210X.14436)
 
-5. **Zakka, V. G.**, Lee, M., Zhang, R., Huang, L., Jung, S., & Hong, T. (2024). Non-invasive vision-based personal comfort model using thermographic images and deep learning. *Automation in Construction*, 105811. [DOI](https://doi.org/10.1016/j.autcon.2024.105811)
+5. **Zakka, V. G.**, Lee, M., Zhang, R., Huang, L., Jung, S., & Hong, T. (2024). Non-invasive vision-based personal comfort model using thermographic images and deep learning. *Automation in Construction*. [DOI](https://doi.org/10.1016/j.autcon.2024.105811)
 
-6. **Zakka, V. G.**, & Lee, M. (2024). A generalized thermal comfort model using thermographic images and compact convolutional transformers: Towards scalable and adaptive occupant comfort optimization. *Building and Environment*, 112118. [DOI](https://doi.org/10.1016/j.buildenv.2024.112118)
+6. **Zakka, V. G.**, & Lee, M. (2024). A generalized thermal comfort model using thermographic images and compact convolutional transformers: Towards scalable and adaptive occupant comfort optimization. *Building and Environment*. [DOI](https://doi.org/10.1016/j.buildenv.2024.112118)
 
-7. Xie, K., Lee, M., Khalid, R., & **Zakka, V. G.** (2023). The impact of personal environmental control on the performance of thermal systems: Building energy consumption, occupant thermal comfort and productivity. *Energy and Buildings*, 113552. [DOI](https://doi.org/10.1016/j.enbuild.2023.113552)
+7. Xie, K., Lee, M., Khalid, R., & **Zakka, V. G.** (2023). The impact of personal environmental control on the performance of thermal systems: Building energy consumption, occupant thermal comfort and productivity. *Energy and Buildings*. [DOI](https://doi.org/10.1016/j.enbuild.2023.113552)
 
 8. **Zakka, V. G.**, Pang, G., Yang, G., Hou, Z., Lv, H., Yu, Z., & Pang, Z. (2021). User-interactive robot skin with large-area scalability for safer and natural human-robot collaboration in future telehealthcare. *IEEE Journal of Biomedical and Health Informatics*. [DOI](https://doi.org/10.1109/JBHI.2021.3082563)  
 *(Featured on Cover Paper)*

@@ -5,6 +5,10 @@
 # prevent it from being included in the site.
 
 main:
+
+  - title: "Research Projects"
+    url: /portfolio/
+    
   - title: "Publications"
     url: /publications/
 
@@ -13,9 +17,6 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
-    
-  - title: "Research Projects"
-    url: /portfolio/
         
   - title: "News"
     url: /year-archive/

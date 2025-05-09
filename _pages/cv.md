@@ -9,14 +9,6 @@ redirect_from:
 
 {% include base_path %}
   
-RESEARCH INTERESTS
-======
-My research explores the intersection of HCI and AI, leveraging computer vision and responsible AI principles to design ambient assisted living technologies that prioritise user needs and concerns, and ethical considerations. My key research areas include:
-* Privacy-aware human activity recognition.
-* Fostering user trust in monitoring technologies.
-* Acceptance of vision-based monitoring technologies in home environments.
-* Thermally comfortable and energy efficient home environment.
-
 Education
 ======
 * Aston University: Ph.D. in Computer Science.  2022 – 2025

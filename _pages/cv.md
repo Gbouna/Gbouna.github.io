@@ -57,7 +57,7 @@ PROFESSIONAL EXPERIENCE
     * Introduction to Artificial Intelligence 	Level 5	
 
 * Research Assistant: The Hong Kong Polytechnic University	Nov. 2021 – July 2022
-  I Worked on the project "Human-Centred Smart and Sustainable Building Management System." The roles included:
+  I Worked on the project *Human-Centred Smart and Sustainable Building Management System.* The roles included:
   * Research: Developed personalised and generalised thermal comfort models using computer vision to predict occupant thermal comfort levels.
   * Hardware Procurement: Managed procurement of devices, evaluating options and ensuring cost-effective, timely delivery.
   * Research Outputs: Contributed to high-quality publications addressing energy efficiency and thermal comfort for occupants.
@@ -65,13 +65,15 @@ PROFESSIONAL EXPERIENCE
   * Research group website: I designed and managed the [research group’s website](https://ibeems-lee.com/)
 
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Research Assistant: Westlake University	June 2021 – Nov. 2021
+  I worked on the project *Ecosystem Monitoring Project* at Westlake University. My roles included:
+  * Hardware Development: I designed and developed electronic hardware components for an autonomous camera system to monitor agrobiodiversity.
+  * Procurement Management: I managed the procurement of devices, coordinating with vendors to ensure cost-effective and timely delivery.
+  * Field Testing Support: I collaborated with field testers to integrate and validate the system in real-world environments.
+  * Team Collaboration: I worked with multidisciplinary teams, including software designers and AutoCAD specialists, to deliver a comprehensive solution.
+  * Research Contributions: Contributed to research publication on Embedded vision cameras for terrestrial biodiversity monitoring.	
 
-
-Skills
+PROFESSIONAL CERTIFICATION
 ======
 * Skill 1
 * Skill 2

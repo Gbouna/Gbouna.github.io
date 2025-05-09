@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "teaching"
+title: "TEACHING EXPERIENCE"
 permalink: /teaching/
 author_profile: true
 redirect_from:
@@ -9,10 +9,9 @@ redirect_from:
 
 {% include base_path %}
   
-TEACHING EXPERIENCE
-======
 * **Ulster University (QA Higher Education)**.	Jan. 2025.  – Present 
   * Scalable Advanced Software Solution
+
 
 * **Aston University** 	Oct. 2022 – Present 
   * Led tutorials and practical sessions for the following modules:
@@ -23,6 +22,7 @@ TEACHING EXPERIENCE
     * Computational Intelligence 			Level 6
     * Enterprise Computing Strategies 		Level 6
     * Introduction to Artificial Intelligence 	Level 5	
+
 
 * **Regent College London**:	April. 2025.  – Present 
   * Maths for Computing

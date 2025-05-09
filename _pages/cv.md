@@ -138,8 +138,23 @@ PROFESSIONAL SERVICE
 * IEEE 33rd International Symposium on Industrial Electronics (ISIE 2024)
 
 **Organising committee**
-The [Third UK AI Conference 2025](https://uk-ai.org/ukai2025/)
+* The [Third UK AI Conference 2025](https://uk-ai.org/ukai2025/)
 
+TALKS
+======
+**Peer reviewing** 
+* Guest Lecture for Deep Learning module (Level 7).
+Computer Vision for Ambient Assisted Living: A Practical Perspective
+* 16th International Conference on Ubiquitous Computing and Ambient Intelligence (UCAmI 2024), Belfast, UK.
+Hierarchical Temporal Convolution Network: Towards Privacy-Centric Activity Recognition.
+* International Conference on AI in Healthcare (AIiH 2024), Swansea, UK.
+Action Recognition for Privacy-Preserving Ambient Assisted Living.
+* Aston Centre for Artificial Intelligence Research and Application (ACAIRA), 2024, Aston University.
+Temporal Decoupling Graph Depthwise Separable Convolution Network (TD-GDSCN)
+* International Conference on Construction Applications of Virtual Reality (CONVR 2022), Seoul, South Korea.
+An Integrated Design of Energy and Indoor Environmental Quality System for Effective Building         Performance Management.
+* Internation Conference on Intelligent Robotics and Applications (ICIRA 2021), Yantai, China.
+IoT-Enabled Robot Skin System for Enhancement of Safe Human-Robot Collaboration.
 
 Teaching
 ======

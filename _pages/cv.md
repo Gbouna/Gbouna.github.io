@@ -56,7 +56,7 @@ PROFESSIONAL EXPERIENCE
     * Enterprise Computing Strategies 		Level 6
     * Introduction to Artificial Intelligence 	Level 5	
 
-* Research Assistant: The Hong Kong Polytechnic University	Nov. 2021 – July 2022
+* **Research Assistant**: The Hong Kong Polytechnic University	Nov. 2021 – July 2022
   I Worked on the project *Human-Centred Smart and Sustainable Building Management System.* The roles included:
   * Research: Developed personalised and generalised thermal comfort models using computer vision to predict occupant thermal comfort levels.
   * Hardware Procurement: Managed procurement of devices, evaluating options and ensuring cost-effective, timely delivery.
@@ -64,8 +64,7 @@ PROFESSIONAL EXPERIENCE
   * Administration: I worked alongside the PI for the overall management of the research group.
   * Research group website: I designed and managed the [research group’s website](https://ibeems-lee.com/)
 
-
-* Research Assistant: Westlake University	June 2021 – Nov. 2021
+* **Research Assistant**: Westlake University	June 2021 – Nov. 2021
   I worked on the project *Ecosystem Monitoring Project* at Westlake University. My roles included:
   * Hardware Development: I designed and developed electronic hardware components for an autonomous camera system to monitor agrobiodiversity.
   * Procurement Management: I managed the procurement of devices, coordinating with vendors to ensure cost-effective and timely delivery.
@@ -75,12 +74,9 @@ PROFESSIONAL EXPERIENCE
 
 PROFESSIONAL CERTIFICATION
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* AdvanceHE: Fellowship of the Higher Education Academy (FHEA)	Nov. 2024
+* AdvanceHE: Associate Fellow of the Higher Education Academy (AFHEA)	Sept. 2023
+
 
 Publications
 ======

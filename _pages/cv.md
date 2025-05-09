@@ -11,22 +11,36 @@ redirect_from:
 
 CAREER OVERVIEW AND OBJECTIVES
 ======
-* I am a dedicated researcher specialising in Human-Computer Interaction (HCI) and Artificial Intelligence (AI), with expertise  in computer vision for ambient assisted living technologies. 
+* I am a dedicated researcher specialising in Human-Computer Interaction (HCI) and Artificial Intelligence (AI), with expertise  in computer vision for ambient assisted living technologies.  
 * I am self-motivated, collaborative, and results-driven, with strong communication and analytical skills.
-* My goal is to enhance the quality of life for the elderly by developing ambient assisted living technologies that support their independent living while addressing their needs and concerns
+* My goal is to enhance the quality of life for the elderly by developing ambient assisted living technologies that support their independent living while addressing their needs and concerns.
   
+RESEARCH INTERESTS
+======
+My research explores the intersection of HCI and AI, leveraging computer vision and responsible AI principles to design ambient assisted living technologies that prioritise user needs and concerns, and ethical considerations. My key research areas include:
+* Privacy-aware human activity recognition.
+* Fostering user trust in monitoring technologies.
+* Acceptance of vision-based monitoring technologies in home environments.
+* Thermally comfortable and energy efficient home environment.
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
-Work experience
+* Aston University: Ph.D. in Computer Science.  2022 – 2025
+* Aston University: Postgraduate Certificate Learning and Teaching in Higher Education (PGCert). Oct. 2023 – Nov. 2024
+* Aston University: Introduction to Learning and Teaching Practice in Higher Education (ILTP). March 2023 – Sept. 2023
+* Zhejiang University: Master of Engineering in Mechatronic Engineering. 	2018 – 2021
+* Liaoning University of Technology: Bachelor of Engineering in Electronics Information Engineering.	2014 – 2018 
+  
+PROFESSIONAL EXPERIENCE
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Lecturer in Computing: Ulster University (QA Higher Education).	Jan. 2025.  – Present 
+  * Plan, prepare, teach/deliver modules and support student’s learning on a range of programmes and related subject areas.
+  * Assist the Module Leader by suggesting appropriate assessment criteria and methodology to ensure student’s learning and progression.
+  * Liaise with QAHE Internal Moderators (QAHE second markers) to ensure marking is moderated by set deadlines.
+  * Provide guidance, support and tutorship for student groups and individuals as appropriate.
+  * Build and grow relationships with partnership organisations.
+  * Carry out administration duties as required.	
+
 
 * Fall 2015: Research Assistant
   * Github University

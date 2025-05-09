@@ -33,7 +33,7 @@ Education
   
 PROFESSIONAL EXPERIENCE
 ======
-* Lecturer in Computing: Ulster University (QA Higher Education).	Jan. 2025.  – Present 
+* **Lecturer in Computing**: Ulster University (QA Higher Education).	Jan. 2025.  – Present 
   * Plan, prepare, teach/deliver modules and support student’s learning on a range of programmes and related subject areas.
   * Assist the Module Leader by suggesting appropriate assessment criteria and methodology to ensure student’s learning and progression.
   * Liaise with QAHE Internal Moderators (QAHE second markers) to ensure marking is moderated by set deadlines.
@@ -42,10 +42,20 @@ PROFESSIONAL EXPERIENCE
   * Carry out administration duties as required.	
 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Postgraduate Teaching Assistant: Aston University 	Oct. 2022 – Present 
+  * Assessment and Feedback: Mark assignments, exams, and projects, providing constructive feedback to support student learning and skill development.
+  * Student Support: Offer one-on-one and group support to students, addressing questions, clarifying concepts, and assisting with technical challenges to ensure academic success.
+  * Curriculum Collaboration: Collaborate with module leaders to design and adapt teaching materials, ensuring effective delivery and alignment with learning objectives.
+  * Mentoring Dissertation Projects: Supervise and mentor postgraduate dissertation projects, guiding students through the research process from topic selection to completion.
+  * Tutorial Delivery: Led tutorials and practical sessions for the following modules:
+    * Software Engineering 			Level 4
+    * Software Project Management 		Level 6
+    * Data Mining/Understanding Data 		Level 7
+    * Machine Learning 				Level 7
+    * Computational Intelligence 			Level 6
+    * Enterprise Computing Strategies 		Level 6
+    * Introduction to Artificial Intelligence 	Level 5	
+
 
 * Summer 2015: Research Assistant
   * Github University

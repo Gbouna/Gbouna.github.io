@@ -8,12 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-CAREER OVERVIEW AND OBJECTIVES
-======
-* I am a dedicated researcher specialising in Human-Computer Interaction (HCI) and Artificial Intelligence (AI), with expertise  in computer vision for ambient assisted living technologies.  
-* I am self-motivated, collaborative, and results-driven, with strong communication and analytical skills.
-* My goal is to enhance the quality of life for the elderly by developing ambient assisted living technologies that support their independent living while addressing their needs and concerns.
   
 RESEARCH INTERESTS
 ======

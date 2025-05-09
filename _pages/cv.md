@@ -117,12 +117,18 @@ PUBLICATIONS
 
 15. Wenzhou Heng, Gaoyang Pang, **Vincent Gbouna Zakka**, Zhibo Pang, Kang Yi, Huayong Yang, Geng Yang (2019). Facile Fabrication of Highly Soft Tactile Sensor based on Porous Sponge with Geometry Effect on Sensing Characteristics. *2nd IEEE International Flexible Electronics Technology Conference*. [DOI](https://doi.org/10.1109/IFETC46817.2019.9073774)
 
-  
-Talks
+AWARDS
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+
+* Best Paper Runner-Up: International Conference on AI in Healthcare	2024
+* Best Paper Award: 22nd International Conference on Construction Applications of Virtual Reality	2022
+* UK Research and Innovation (UKRI) PhD Studentship: Fully funded doctoral research in Human activity analysis in smart environments, awarded by UKRI.	2022–Present
+* F.C.T Scholarship Board: Ministerial Special Scholarship Award: Award of Excellence	2018
+* Liaoning University of Technology: Best Student in Electronic and Information Engineering Department	2016/2017 Academic Year
+* Liaoning University of Technology: Second Best Student in Electronic and Information Engineering Department	2015/2016 Academic Year
+* Liaoning University of Technology: Second Best Student in Electronic and Information Engineering Department	2014/2015 Academic Year
+* F.C.T Scholarship Board: Best Indigene Student in West African Senior School Certificate Examination	2013
+
   
 Teaching
 ======

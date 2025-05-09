@@ -128,7 +128,19 @@ AWARDS
 * Liaoning University of Technology: Second Best Student in Electronic and Information Engineering Department	2014/2015 Academic Year
 * F.C.T Scholarship Board: Best Indigene Student in West African Senior School Certificate Examination	2013
 
-  
+
+PROFESSIONAL SERVICE
+======
+**Peer reviewing** 
+* IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2024)
+* IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025)
+* Proceedings of Machine Learning Research
+* IEEE 33rd International Symposium on Industrial Electronics (ISIE 2024)
+
+**Organising committee**
+The [Third UK AI Conference 2025](https://uk-ai.org/ukai2025/)
+
+
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}

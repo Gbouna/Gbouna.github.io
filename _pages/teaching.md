@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
   
-PROFESSIONAL EXPERIENCE
+TEACHING EXPERIENCE
 ======
 * **Ulster University (QA Higher Education)**.	Jan. 2025.  – Present 
   * Scalable Advanced Software Solution

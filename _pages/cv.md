@@ -42,7 +42,7 @@ PROFESSIONAL EXPERIENCE
   * Carry out administration duties as required.	
 
 
-* Postgraduate Teaching Assistant: Aston University 	Oct. 2022 – Present 
+* **Postgraduate Teaching Assistant**: Aston University 	Oct. 2022 – Present 
   * Assessment and Feedback: Mark assignments, exams, and projects, providing constructive feedback to support student learning and skill development.
   * Student Support: Offer one-on-one and group support to students, addressing questions, clarifying concepts, and assisting with technical challenges to ensure academic success.
   * Curriculum Collaboration: Collaborate with module leaders to design and adapt teaching materials, ensuring effective delivery and alignment with learning objectives.
@@ -56,12 +56,20 @@ PROFESSIONAL EXPERIENCE
     * Enterprise Computing Strategies 		Level 6
     * Introduction to Artificial Intelligence 	Level 5	
 
+* Research Assistant: The Hong Kong Polytechnic University	Nov. 2021 – July 2022
+  I Worked on the project "Human-Centred Smart and Sustainable Building Management System." The roles included:
+  * Research: Developed personalised and generalised thermal comfort models using computer vision to predict occupant thermal comfort levels.
+  * Hardware Procurement: Managed procurement of devices, evaluating options and ensuring cost-effective, timely delivery.
+  * Research Outputs: Contributed to high-quality publications addressing energy efficiency and thermal comfort for occupants.
+  * Administration: I worked alongside the PI for the overall management of the research group.
+  * Research group website: I designed and managed the research group’s website (https://ibeems-lee.com/)
 
 * Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
-  
+
+
 Skills
 ======
 * Skill 1

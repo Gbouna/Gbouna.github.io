@@ -57,7 +57,7 @@ PROFESSIONAL EXPERIENCE
     * Introduction to Artificial Intelligence 	Level 5	
 
 * **Research Assistant**: The Hong Kong Polytechnic University	Nov. 2021 – July 2022
-  I Worked on the project *Human-Centred Smart and Sustainable Building Management System.* The roles included:
+I Worked on the project *Human-Centred Smart and Sustainable Building Management System.* The roles included:
   * Research: Developed personalised and generalised thermal comfort models using computer vision to predict occupant thermal comfort levels.
   * Hardware Procurement: Managed procurement of devices, evaluating options and ensuring cost-effective, timely delivery.
   * Research Outputs: Contributed to high-quality publications addressing energy efficiency and thermal comfort for occupants.
@@ -65,7 +65,7 @@ PROFESSIONAL EXPERIENCE
   * Research group website: I designed and managed the [research group’s website](https://ibeems-lee.com/)
 
 * **Research Assistant**: Westlake University	June 2021 – Nov. 2021
-  I worked on the project *Ecosystem Monitoring Project* at Westlake University. My roles included:
+I worked on the project *Ecosystem Monitoring Project* at Westlake University. My roles included:
   * Hardware Development: I designed and developed electronic hardware components for an autonomous camera system to monitor agrobiodiversity.
   * Procurement Management: I managed the procurement of devices, coordinating with vendors to ensure cost-effective and timely delivery.
   * Field Testing Support: I collaborated with field testers to integrate and validate the system in real-world environments.
@@ -155,13 +155,3 @@ Temporal Decoupling Graph Depthwise Separable Convolution Network (TD-GDSCN)
 An Integrated Design of Energy and Indoor Environmental Quality System for Effective Building         Performance Management.
 * Internation Conference on Intelligent Robotics and Applications (ICIRA 2021), Yantai, China.
 IoT-Enabled Robot Skin System for Enhancement of Safe Human-Robot Collaboration.
-
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams

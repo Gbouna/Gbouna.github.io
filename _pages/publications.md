@@ -30,18 +30,18 @@ author_profile: true
 
 ## Conference Papers
 
-9. **Zakka, V. G.**, Manso, L. J., & Dai, Z. (2024). Multi-Head Adaptive Graph Convolution Network for Sparse Point Cloud-Based Human Activity Recognition. *Submitted to IEEE/RSJ International Conference on Intelligent Robots and Systems*. [arXiv preprint](https://arxiv.org/abs/2504.02778)
+9. **Vincent Gbouna Zakka**, Zhuangzhuang Dai, Luis J. Manso.  (2024). Multi-Head Adaptive Graph Convolution Network for Sparse Point Cloud-Based Human Activity Recognition. *Submitted to IEEE/RSJ International Conference on Intelligent Robots and Systems*. [arXiv preprint](https://arxiv.org/abs/2504.02778)
 
 10. Cui, X., Lee, M., & **Zakka, V. G.** (2024). A computer vision-based model for occupancy detection using low-resolution thermal images. *Accepted to 6th International Conference on Building Energy and Environment*.
 
-11. **Zakka, V. G.**, Dai, Z., & Manso, L. J. (2023). Hierarchical Temporal Convolution Network: Towards Privacy-Centric Activity Recognition. *16th International Conference on Ubiquitous Computing and Ambient Intelligence*. [DOI](https://doi.org/10.1007/978-3-031-77571-0_33)
+11. **Vincent Gbouna Zakka**, Zhuangzhuang Dai, Luis J. Manso (2023). Hierarchical Temporal Convolution Network: Towards Privacy-Centric Activity Recognition. *16th International Conference on Ubiquitous Computing and Ambient Intelligence*. [DOI](https://doi.org/10.1007/978-3-031-77571-0_33)
 
-12. **Zakka, V. G.**, Dai, Z., & Manso, L. J. (2023). Action Recognition for Privacy-Preserving Ambient Assisted Living. *International Conference on AI in Healthcare*. [DOI](https://doi.org/10.1007/978-3-031-67285-9_15)  
+12. **Vincent Gbouna Zakka**, Zhuangzhuang Dai, Luis J. Manso. (2023). Action Recognition for Privacy-Preserving Ambient Assisted Living. *International Conference on AI in Healthcare*. [DOI](https://doi.org/10.1007/978-3-031-67285-9_15)  
 *(Best Paper Award)*
 
-13. **Zakka, V. G.**, & Lee, M. (2022). An Integrated Design of Energy and Indoor Environmental Quality System for Effective Building Performance Management. *Proceedings of the 22nd International Conference on Construction Applications of Virtual Reality* (pp. 455-466). [arXiv preprint](https://arxiv.org/abs/2503.23323)  
+13. **Vincent Gbouna Zakka**, Minhyun Lee (2022). An Integrated Design of Energy and Indoor Environmental Quality System for Effective Building Performance Management. *Proceedings of the 22nd International Conference on Construction Applications of Virtual Reality* (pp. 455-466). [arXiv preprint](https://arxiv.org/abs/2503.23323)  
 *(Best Paper Award)*
 
-14. **Zakka, V. G.**, Hou, Z., Pang, G., Yang, H., & Yang, G. (2021). IoT-Enabled Robot Skin System for Enhancement of Safe Human-Robot Collaboration. *International Conference on Intelligent Robotics and Applications*. [DOI](https://doi.org/10.1007/978-3-030-89098-8_43)
+14. **Vincent Gbouna Zakka**, Zeyang Hou , Gaoyang Pang, Huayong Yang, Geng Yang. (2021). IoT-Enabled Robot Skin System for Enhancement of Safe Human-Robot Collaboration. *International Conference on Intelligent Robotics and Applications*. [DOI](https://doi.org/10.1007/978-3-030-89098-8_43)
 
-15. Heng, W., Pang, G., **Zakka, V. G.**, Pang, Z., Yi, K., Yang, H., & Yang, G. (2019). Facile Fabrication of Highly Soft Tactile Sensor based on Porous Sponge with Geometry Effect on Sensing Characteristics. *2nd IEEE International Flexible Electronics Technology Conference*. [DOI](https://doi.org/10.1109/IFETC46817.2019.9073774)
+15. Wenzhou Heng, Gaoyang Pang, **Vincent Gbouna Zakka**, Zhibo Pang, Kang Yi, Huayong Yang, Geng Yang (2019). Facile Fabrication of Highly Soft Tactile Sensor based on Porous Sponge with Geometry Effect on Sensing Characteristics. *2nd IEEE International Flexible Electronics Technology Conference*. [DOI](https://doi.org/10.1109/IFETC46817.2019.9073774)

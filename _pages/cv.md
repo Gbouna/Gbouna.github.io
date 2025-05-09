@@ -62,7 +62,8 @@ PROFESSIONAL EXPERIENCE
   * Hardware Procurement: Managed procurement of devices, evaluating options and ensuring cost-effective, timely delivery.
   * Research Outputs: Contributed to high-quality publications addressing energy efficiency and thermal comfort for occupants.
   * Administration: I worked alongside the PI for the overall management of the research group.
-  * Research group website: I designed and managed the research group’s website (https://ibeems-lee.com/)
+  * Research group website: I designed and managed the [research group’s website](https://ibeems-lee.com/)
+
 
 * Summer 2015: Research Assistant
   * Github University

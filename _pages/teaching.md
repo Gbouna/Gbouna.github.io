@@ -24,5 +24,5 @@ redirect_from:
     * Introduction to Artificial Intelligence 	Level 5	
 
 
-* **Regent College London**:	April. 2025.  – Present 
+* **University of Bolton (Regent College London)**:	April. 2025.  – Present 
   * Maths for Computing

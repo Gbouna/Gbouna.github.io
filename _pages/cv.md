@@ -88,7 +88,7 @@ PUBLICATIONS
 
 9. **Vincent Gbouna Zakka**, Zhuangzhuang Dai, Luis J. Manso.  (2024). Multi-Head Adaptive Graph Convolution Network for Sparse Point Cloud-Based Human Activity Recognition. *Submitted to IEEE/RSJ International Conference on Intelligent Robots and Systems*. [arXiv preprint](https://arxiv.org/abs/2504.02778).  ___ [Code](https://github.com/Gbouna/MAK-GCN). 
 
-10. Xue Cui, Minhyun Lee, **Vincent Gbouna Zakka** (2024). A computer vision-based model for occupancy detection using low-resolution thermal images. *Accepted to 6th International Conference on Building Energy and Environment*.
+10. Xue Cui, Minhyun Lee, **Vincent Gbouna Zakka** (2024). A computer vision-based model for occupancy detection using low-resolution thermal images. *Accepted to 6th International Conference on Building Energy and Environment*. [arXiv preprint](https://arxiv.org/abs/2505.08336).
 
 11. **Vincent Gbouna Zakka**, Zhuangzhuang Dai, Luis J. Manso (2023). Hierarchical Temporal Convolution Network: Towards Privacy-Centric Activity Recognition. *16th International Conference on Ubiquitous Computing and Ambient Intelligence*. [DOI](https://doi.org/10.1007/978-3-031-77571-0_33).  ___ [Code](https://github.com/Gbouna/HT-ConvNet).  ___ [Demo](https://www.youtube.com/watch?v=7vdGAu3zcCA). 
 

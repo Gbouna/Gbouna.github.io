@@ -117,8 +117,8 @@ AWARDS
 PROFESSIONAL SERVICE
 ======
 **Peer reviewing** 
-* IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2024)
-* IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025)
+* International Conference on Artificial Intelligence in Healthcare (AIiH 2025)
+* IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2024 - 2025)
 * Proceedings of Machine Learning Research
 * IEEE 33rd International Symposium on Industrial Electronics (ISIE 2024)
 
@@ -126,8 +126,7 @@ PROFESSIONAL SERVICE
 * The [Third UK AI Conference 2025](https://uk-ai.org/ukai2025/)
 
 TALKS
-======
-**Peer reviewing** 
+====== 
 * Guest Lecture for Deep Learning module (Level 7).
 Computer Vision for Ambient Assisted Living: A Practical Perspective
 * 16th International Conference on Ubiquitous Computing and Ambient Intelligence (UCAmI 2024), Belfast, UK.

@@ -1,4 +1,4 @@
-/* Custom styling for justified text and improved readability */
+/* Custom text justification */
 .page__content {
   text-align: justify;
   text-justify: inter-word;
@@ -9,18 +9,15 @@
     line-height: 1.7;
   }
   
-  ul, ol {
+  ul {
+    padding-left: 1.5em;
     li {
       margin-bottom: 0.7em;
       line-height: 1.6;
-      text-align: left; /* Keep list items left-aligned */
-      text-justify: none;
+      text-align: left; /* Keep bullets left-aligned */
+      p {
+        margin-bottom: 0.5em; /* Tighter spacing for bullet text */
+      }
     }
-  }
-  
-  h2, h3, h4 {
-    text-align: left; /* Keep headings left-aligned */
-    margin-top: 1.8em;
-    margin-bottom: 0.8em;
   }
 }

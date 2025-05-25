@@ -5,10 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{https://scholar.google.com/citations?user=XTgcz5cAAAAJ&hl=en}}">my Google Scholar profile</a>.</div>
-{% endif %}
-
 ## Journal Articles
 
 1. **Vincent Gbouna Zakka**, Zhuangzhuang Dai, Luis J. Manso (2025). Action Recognition in Real-World Ambient Assisted Living Environment. *Journal of Big Data Mining and Analytics*. [DOI](https://doi.org/10.26599/BDMA.2025.9020003). ___ [Code](https://github.com/Gbouna/RE-TCN). ___ [Demo](https://www.youtube.com/watch?v=pQJrz4SVdi4&t=2s)

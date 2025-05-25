@@ -1,9 +1,10 @@
 ---
-layout: single
-title: "About Me"
-permalink: /about/
+permalink: /
+title: "About me"
 author_profile: true
-classes: wide
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
 <div class="page__content">

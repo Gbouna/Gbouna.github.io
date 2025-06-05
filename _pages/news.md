@@ -17,9 +17,6 @@ As part of the International Program Committee, I was honoured to receive the **
 
 ## Best Paper Award (Runner Up): International Conference on AI in Healthcare 2024
 
-A new state-of-the-art research lab has opened in Doha, focusing on machine learning and data science. The lab is a collaboration between local universities and international tech firms.
-
-![Research Lab](research-lab.jpg)
 
 ---
 

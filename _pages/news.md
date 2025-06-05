@@ -26,7 +26,7 @@ As part of the International Program Committee, I was honoured to receive the **
 
 ---
 
-## Our Paper Featured on the Front Page of IEEE Journal of Biomedical and Health Informatics.
+## Our Paper Featured on the Front Page of IEEE Journal of Biomedical and Health Informatics 2018.
 
 
 ---

@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "LATEST NEWS"
-permalink: /News/
+permalink: /news/
 author_profile: true
 ---
 

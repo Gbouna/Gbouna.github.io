@@ -7,15 +7,15 @@ author_profile: true
 
 {% include base_path %}
 
-## Headline 1: AI Conference 2025 Highlights
+## Outstanding Reviewer: International Conference on AI in Healthcare 2025
 
-The 2025 AI Conference brought together leading researchers and industry experts to discuss the future of artificial intelligence. Key topics included ethical AI, generative models, and AI in education.
+As part of the International Program Committee, I was honoured to receive the **Outstanding Reviewer Award** at the AI in Healthcare Conference 2025, in recognition of my contributions to the peer review process. It's a privilege to support the scientific community and help maintain the quality of research in this rapidly evolving field.
 
-![AI Conference](ai-conference.jpg)
+![Outstanding Reviewer Award](ai-conference.jpg)
 
 ---
 
-## Headline 2: New Research Lab Opens in Doha
+## Best Paper Award (Runner Up): International Conference on AI in Healthcare 2024
 
 A new state-of-the-art research lab has opened in Doha, focusing on machine learning and data science. The lab is a collaboration between local universities and international tech firms.
 
@@ -23,10 +23,13 @@ A new state-of-the-art research lab has opened in Doha, focusing on machine lear
 
 ---
 
-## Headline 3: Student Hackathon Success
+## Best Paper Award: 22nd International Conference on Construction Applications of Virtual Reality 2022
 
-Students from across the region participated in a 48-hour hackathon, developing innovative solutions for smart cities. The winning team created an app for real-time traffic optimization.
 
-![Hackathon](hackathon.jpg)
+
+---
+
+## Our Paper Featured on the Front Page of IEEE Journal of Biomedical and Health Informatics.
+
 
 ---

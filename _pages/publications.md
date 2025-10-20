@@ -32,7 +32,7 @@ author_profile: true
 
 11. **Vincent Gbouna Zakka**, Zhuangzhuang Dai, Luis J. Manso (2023). Hierarchical Temporal Convolution Network: Towards Privacy-Centric Activity Recognition. *16th International Conference on Ubiquitous Computing and Ambient Intelligence*. [DOI](https://doi.org/10.1007/978-3-031-77571-0_33).  ___ [Code](https://github.com/Gbouna/HT-ConvNet).  ___ [Demo](https://www.youtube.com/watch?v=7vdGAu3zcCA). 
 
-12. **Vincent Gbouna Zakka**, Zhuangzhuang Dai, Luis J. Manso. (2023). Action Recognition for Privacy-Preserving Ambient Assisted Living. *International Conference on AI in Healthcare*. [DOI](https://doi.org/10.1007/978-3-031-67285-9_15).  ___ [Code](https://github.com/Gbouna/TD-GDSCN).  ___ [Demo](https://www.youtube.com/watch?v=FExfkhTpHJA).  
+12. **Vincent Gbouna Zakka**, Zhuangzhuang Dai, Luis J. Manso. (2023). Action Recognition for Privacy-Preserving Ambient Assisted Living. *International Conference on AI in Healthcare*. [DOI](https://doi.org/10.1007/978-3-031-67285-9_15).  ___ [Code](https://github.com/Gbouna/Action-Recognition-for-Privacy-Preserving-Ambient-Assisted-Living).  ___ [Demo](https://www.youtube.com/watch?v=FExfkhTpHJA).  
 *(Best Paper Award)*
 
 13. **Vincent Gbouna Zakka**, Minhyun Lee (2022). An Integrated Design of Energy and Indoor Environmental Quality System for Effective Building Performance Management. *Proceedings of the 22nd International Conference on Construction Applications of Virtual Reality* (pp. 455-466). [arXiv preprint](https://arxiv.org/abs/2503.23323)  

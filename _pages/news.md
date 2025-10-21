@@ -13,16 +13,17 @@ As part of the International Program Committee, I was honoured to receive the **
 
 ---
 
-## Best Paper Award (Runner Up): International Conference on AI in Healthcare 2024
-Our paper (*Action Recognition for Privacy-Preserving Ambient Assisted Living*) received the best paper award at the AI in Healthcare Conference 2024, recognising the contribution it made to advancing research in this field. Details of the paper can be found below:
+## Best Paper Award: Privacy-Preserving Activity Recognition for Ambient Assisted Living
+
+Our paper received the Best Paper Award for its innovative approach to preserving user privacy in computer vision-based activity monitoring for older adults. We introduced a method that performs accurate activity recognition locally, eliminating the need to stream sensitive data to the cloud. The proposed TD-GDSCN model, combined with a novel data augmentation technique, addresses real-time performance and environmental variability. Experimental results on benchmark datasets demonstrate superior accuracy and robustness compared to existing methods. Details of the paper can be found below:
 
 [Paper](https://doi.org/10.1007/978-3-031-67285-9_15).  ___ [Code](https://github.com/Gbouna/TD-GDSCN).  ___ [Demo](https://www.youtube.com/watch?v=FExfkhTpHJA).  
 
 ---
 
-## Best Paper Award: 22nd International Conference on Construction Applications of Virtual Reality 2022
+## Best Paper Award: IoT-Based Monitoring System for Smart Building Energy and Environmental Management
 
-Our paper, *An Integrated Design of Energy and Indoor Environmental Quality System for Effective Building Performance Management*, received the Best Paper Award, recognising our contribution to systems that support the understanding of energy consumption patterns in the built environment. This facilitates the analysis of energy wastage sources and the development of strategies for efficient energy management. Further details about the paper can be found below:
+Our paper received the Best Paper Award for presenting an integrated, non-invasive IoT-based monitoring system designed to improve energy efficiency and indoor environmental quality (IEQ) in buildings. The system combines hardware and software components to collect, process, and visualise high-resolution energy and IEQ data in real time. By enabling intelligent and user-friendly energy management, the solution aims to support both end-users and building managers in identifying energy wastage and implementing effective strategies for sustainable building performance. Further details about the paper can be found below:
 
 [Paper](https://arxiv.org/abs/2503.23323)
 

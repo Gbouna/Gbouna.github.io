@@ -19,6 +19,7 @@ Our paper received the Best Paper Award for its innovative approach to preservin
 
 [Paper](https://doi.org/10.1007/978-3-031-67285-9_15).  ___ [Code](https://github.com/Gbouna/TD-GDSCN).  ___ [Demo](https://www.youtube.com/watch?v=FExfkhTpHJA).  
 
+![Best Paper Award](aiiH2025.jfif)
 ---
 
 ## Best Paper Award: IoT-Based Monitoring System for Smart Building Energy and Environmental Management

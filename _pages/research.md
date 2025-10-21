@@ -9,7 +9,7 @@ author_profile: true
 
 ## Human Activity Analysis in Home Environment
 
-As part of the International Program Committee, I was honoured to receive the **Outstanding Reviewer Award** at the AI in Healthcare Conference 2025, in recognition of my contributions to the peer review process. It's a privilege to support the scientific community and help maintain the quality of research in this rapidly evolving field.
+This research focuses on the development of novel deep learning models for analysing human activity in the home environment. The models are designed to address the challenges that influence user acceptance of activity monitoring in the home environement as well as the unique challenges of deploying activity monitoring systems in the home envronment that is unstructured. Some of the challenges include balancing the trade-off between accuracy and efficiency to enable accurate activity monitoring on low-cost resource constraint embedded systems, privcy and data security in monitoing system, and user agency and autonomy over monitoring system.  
 
 ---
 

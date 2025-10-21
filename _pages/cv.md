@@ -33,14 +33,7 @@ PROFESSIONAL EXPERIENCE
   * Student Support: Offer one-on-one and group support to students, addressing questions, clarifying concepts, and assisting with technical challenges to ensure academic success.
   * Curriculum Collaboration: Collaborate with module leaders to design and adapt teaching materials, ensuring effective delivery and alignment with learning objectives.
   * Mentoring Dissertation Projects: Supervise and mentor postgraduate dissertation projects, guiding students through the research process from topic selection to completion.
-  * Tutorial Delivery: Led tutorials and practical sessions for the following modules:
-    * Software Engineering 			Level 4
-    * Software Project Management 		Level 6
-    * Data Mining/Understanding Data 		Level 7
-    * Machine Learning 				Level 7
-    * Computational Intelligence 			Level 6
-    * Enterprise Computing Strategies 		Level 6
-    * Introduction to Artificial Intelligence 	Level 5	
+  * Tutorial Delivery: Led tutorials and practical sessions for several computing modules, including Software Engineering, Introduction to Artificial Intelligence, Data Mining/Understanding Data, and Machine Learning 
 
 * **Research Assistant**: The Hong Kong Polytechnic University	Nov. 2021 – July 2022
 * I Worked on the project *Human-Centred Smart and Sustainable Building Management System.* The roles included:
@@ -57,6 +50,7 @@ PROFESSIONAL EXPERIENCE
   * Field Testing Support: I collaborated with field testers to integrate and validate the system in real-world environments.
   * Team Collaboration: I worked with multidisciplinary teams, including software designers and AutoCAD specialists, to deliver a comprehensive solution.
   * Research Contributions: Contributed to research publication on Embedded vision cameras for terrestrial biodiversity monitoring.	
+
 
 PROFESSIONAL CERTIFICATION
 ======

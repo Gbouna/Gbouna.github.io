@@ -22,11 +22,15 @@ Our paper (*Action Recognition for Privacy-Preserving Ambient Assisted Living*) 
 
 ## Best Paper Award: 22nd International Conference on Construction Applications of Virtual Reality 2022
 
+Our paper, *An Integrated Design of Energy and Indoor Environmental Quality System for Effective Building Performance Management*, received the Best Paper Award, recognising our contribution to systems that support the understanding of energy consumption patterns in the built environment. This facilitates the analysis of energy wastage sources and the development of strategies for efficient energy management. Further details about the paper can be found below:
 
+[Paper](https://arxiv.org/abs/2503.23323)
 
 ---
 
-## Our Paper Featured on the Front Page of the IEEE Journal of Biomedical and Health Informatics 2018.
+## Featured Cover Paper: Enhancing Human-Robot Collaboration in Healthcare 4.0.
+
+Our paper was featured on the cover page, highlighting our contribution to safe and intuitive human-robot collaboration in Healthcare 4.0. We proposed a modular proximity sensing solution based on self-capacitive technology, enabling collaborative robots to detect approach and contact. Operating in both interaction and safety modes, the system supports gesture-based control and obstacle avoidance, enhancing telehealthcare delivery in human-centred environments.
 
 
 ---

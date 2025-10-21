@@ -9,14 +9,12 @@ author_profile: true
 
 ## Human Activity Analysis in Home Environment
 
-This research focuses on the development of novel deep learning models for analysing human activity in the home environment. The models are designed to address the challenges that influence user acceptance of activity monitoring in the home environement as well as the unique challenges of deploying activity monitoring systems in the home envronment that is unstructured. Some of the challenges include balancing the trade-off between accuracy and efficiency to enable accurate activity monitoring on low-cost resource constraint embedded systems, privcy and data security in monitoing system, and user agency and autonomy over monitoring system.  
+This research focuses on the development of novel deep learning models for analysing human activity in the home environment. The models are designed to address the challenges that influence user acceptance of activity monitoring in the home environment, as well as the unique challenges of deploying activity monitoring systems in the unstructured home environment. Some of the challenges include balancing the trade-off between accuracy and efficiency to enable accurate activity monitoring on low-cost resource-constrained embedded systems, privacy and data security in monitoring systems, and user agency and autonomy over monitoring systems.  
 
 ---
 
 ## Computer Vision for Human-Centred Smart and Sustainable Building Management
 Our paper (*Action Recognition for Privacy-Preserving Ambient Assisted Living*) received the best paper award at the AI in Healthcare Conference 2024, recognising the contribution it made to advancing research in this field. Details of the paper can be found below:
-
-[Paper](https://doi.org/10.1007/978-3-031-67285-9_15).  ___ [Code](https://github.com/Gbouna/TD-GDSCN).  ___ [Demo](https://www.youtube.com/watch?v=FExfkhTpHJA).  
 
 ---
 

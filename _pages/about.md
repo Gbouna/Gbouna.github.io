@@ -12,7 +12,7 @@ I am a researcher specialising in Human-Computer Interaction (HCI) and Artificia
 # Research Focus
 
 My research explores the intersection of HCI and AI, leveraging AI and HCI principles to design ambient assisted living technologies that prioritise user needs, concerns. My key research areas include:
-* Privacy-aware human activity recognition.
-* Fostering user trust in monitoring technologies.
-* Acceptance of vision-based monitoring technologies in home environments.
-* Thermally comfortable and energy-efficient home environment.
+
+* Human Activity Analysis in Home Environment.
+* User Acceptance of Ambient Assisted Living Technologies in the Home Environment.
+* Computer Vision for Human-Centred Smart and Sustainable Building Management

@@ -49,8 +49,3 @@ The design of innovative digital technologies that use existing and novel approa
 
 
 ---
-
-## Our Paper Featured on the Front Page of the IEEE Journal of Biomedical and Health Informatics 2018.
-
-
----

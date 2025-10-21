@@ -33,6 +33,6 @@ Our paper received the Best Paper Award for presenting an integrated, non-invasi
 
 Our paper was featured on the cover page, highlighting our contribution to safe and intuitive human-robot collaboration in Healthcare 4.0. We proposed a modular proximity sensing solution based on self-capacitive technology, enabling collaborative robots to detect approach and contact. Operating in both interaction and safety modes, the system supports gesture-based control and obstacle avoidance, enhancing telehealthcare delivery in human-centred environments.
 
-![cover page](cover page.jfif)
+![cover page](cover_page.jfif)
 
 ---

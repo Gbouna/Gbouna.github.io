@@ -11,7 +11,7 @@ redirect_from:
   
 Education
 ======
-* Aston University: Ph.D. in Computer Science.  Oct. 2022 – Sept. 2025
+* Aston University: PhD in Computer Science.  Oct. 2022 – Sept. 2025
 * Aston University: Postgraduate Certificate Learning and Teaching in Higher Education (PGCert). Oct. 2023 – Nov. 2024
 * Aston University: Introduction to Learning and Teaching Practice in Higher Education (ILTP). March 2023 – Sept. 2023
 * Zhejiang University: Master of Engineering in Mechatronic Engineering. 	2018 – 2021
@@ -19,7 +19,7 @@ Education
   
 PROFESSIONAL EXPERIENCE
 ======
-* **Lecturer in Computing**: Ulster University (QA Higher Education).	Jan. 2025.  – Present 
+* **Lecturer in Computing**: Ulster University (QA Higher Education).	Jan. 2025.  – Nov. 2025 
   * Plan, prepare, teach/deliver modules and support student’s learning on a range of programmes and related subject areas.
   * Assist the Module Leader by suggesting appropriate assessment criteria and methodology to ensure student’s learning and progression.
   * Liaise with QAHE Internal Moderators (QAHE second markers) to ensure marking is moderated by set deadlines.
@@ -28,7 +28,7 @@ PROFESSIONAL EXPERIENCE
   * Carry out administration duties as required.	
 
 
-* **Postgraduate Teaching Assistant**: Aston University 	Oct. 2022 – Present 
+* **Postgraduate Teaching Assistant**: Aston University 	Oct. 2022 – Oct. 2025 
   * Assessment and Feedback: Mark assignments, exams, and projects, providing constructive feedback to support student learning and skill development.
   * Student Support: Offer one-on-one and group support to students, addressing questions, clarifying concepts, and assisting with technical challenges to ensure academic success.
   * Curriculum Collaboration: Collaborate with module leaders to design and adapt teaching materials, ensuring effective delivery and alignment with learning objectives.
@@ -63,50 +63,12 @@ PROFESSIONAL CERTIFICATION
 * AdvanceHE: Fellowship of the Higher Education Academy (FHEA)	Nov. 2024
 * AdvanceHE: Associate Fellow of the Higher Education Academy (AFHEA)	Sept. 2023
 
-PUBLICATIONS
-======
-## Journal Articles
-
-1. **Vincent Gbouna Zakka**, Zhuangzhuang Dai, Luis J. Manso (2025). Action Recognition in Real-World Ambient Assisted Living Environment. *Journal of Big Data Mining and Analytics*. [DOI](https://doi.org/10.26599/BDMA.2025.9020003). ___ [Code](https://github.com/Gbouna/RE-TCN). ___ [Demo](https://www.youtube.com/watch?v=pQJrz4SVdi4&t=2s)
-
-3. Xue Cui, Minhyun Lee, Mohammad Nyme Uddin, Xuange Zhang, **Vincent Gbouna Zakka** (2025). Analysing different household energy use patterns using clustering and machine learning. *Renewable and Sustainable Energy Reviews*. [DOI](https://doi.org/10.1016/j.rser.2025.115335)
-
-4. Zhuangzhuang Dai, **Vincent Gbouna Zakka**, Luis J. Manso, Martin Rudorfer, Ulysses Bernardet, Johanna Zumer, Manolya Kavakli-Thorne (2024). Sensors, Techniques and Future Trends of Human Engagement Enabled Applications: A Review. *Algorithms*, 17(12). [DOI](https://doi.org/10.3390/a17120560)
-
-5. Darras, Kevin; Balle, Marcel; Xu, Wenxiu; Yan, Yang; **Zakka Gbouna, Vincent**; Toletdo, Manuel; Sheng, Dong; Lin, Wei; Zhang, Boyu; Lan, Zhenzhong; Fupeng, Li; Wanger, Thomas (2024). Eyes on nature: Embedded vision cameras for terrestrial biodiversity monitoring. *Methods in Ecology and Evolution*. [DOI](https://doi.org/10.1111/2041-210X.14436)
-
-6. **Vincent Gbouna Zakka**, Minhyun Lee, Ruxiaoxiao Zhang, Lijie Huang, Seunghoon Jung, Taehoon Hong. (2024). Non-invasive vision-based personal comfort model using thermographic images and deep learning. *Automation in Construction*. [DOI](https://doi.org/10.1016/j.autcon.2024.105811).  ___ [Code](https://github.com/Gbouna/Non-invasive-vision-based-personal-comfort-model).  
-
-7. **Vincent Gbouna Zakka**, Minhyun Lee (2024). A generalized thermal comfort model using thermographic images and compact convolutional transformers: Towards scalable and adaptive occupant comfort optimization. *Building and Environment*. [DOI](https://doi.org/10.1016/j.buildenv.2024.112118).  ___ [Code](https://github.com/Gbouna/Generalized-Thermal-Comfort-Model).  
-
-8. Kexin Xie, Minhyun Lee, Rihab Khalid, **Vincent Gbouna Zakka** (2023). The impact of personal environmental control on the performance of thermal systems: Building energy consumption, occupant thermal comfort and productivity. *Energy and Buildings*. [DOI](https://doi.org/10.1016/j.enbuild.2023.113552)
-
-9. **Vincent Gbouna Zakka**, Gaoyang Pang, Geng Yang, Zeyang Hou, Honghao Lv, Zhangwei Yu, Zhibo Pang (2021). User-interactive robot skin with large-area scalability for safer and natural human-robot collaboration in future telehealthcare. *IEEE Journal of Biomedical and Health Informatics*. [DOI](https://doi.org/10.1109/JBHI.2021.3082563)  
-*(Featured on Cover Paper)*
-
-## Conference Papers
-
-9. **Vincent Gbouna Zakka**, Zhuangzhuang Dai, Luis J. Manso.  (2024). Multi-Head Adaptive Graph Convolution Network for Sparse Point Cloud-Based Human Activity Recognition. *Submitted to IEEE/RSJ International Conference on Intelligent Robots and Systems*. [arXiv preprint](https://arxiv.org/abs/2504.02778).  ___ [Code](https://github.com/Gbouna/MAK-GCN). 
-
-10. Xue Cui, Minhyun Lee, **Vincent Gbouna Zakka** (2024). A computer vision-based model for occupancy detection using low-resolution thermal images. *Accepted to 6th International Conference on Building Energy and Environment*. [arXiv preprint](https://arxiv.org/abs/2505.08336).
-
-11. **Vincent Gbouna Zakka**, Zhuangzhuang Dai, Luis J. Manso (2023). Hierarchical Temporal Convolution Network: Towards Privacy-Centric Activity Recognition. *16th International Conference on Ubiquitous Computing and Ambient Intelligence*. [DOI](https://doi.org/10.1007/978-3-031-77571-0_33).  ___ [Code](https://github.com/Gbouna/HT-ConvNet).  ___ [Demo](https://www.youtube.com/watch?v=7vdGAu3zcCA). 
-
-12. **Vincent Gbouna Zakka**, Zhuangzhuang Dai, Luis J. Manso. (2023). Action Recognition for Privacy-Preserving Ambient Assisted Living. *International Conference on AI in Healthcare*. [DOI](https://doi.org/10.1007/978-3-031-67285-9_15).  ___ [Code](https://github.com/Gbouna/TD-GDSCN).  ___ [Demo](https://www.youtube.com/watch?v=FExfkhTpHJA).  
-*(Best Paper Award)*
-
-13. **Vincent Gbouna Zakka**, Minhyun Lee (2022). An Integrated Design of Energy and Indoor Environmental Quality System for Effective Building Performance Management. *Proceedings of the 22nd International Conference on Construction Applications of Virtual Reality* (pp. 455-466). [arXiv preprint](https://arxiv.org/abs/2503.23323)  
-*(Best Paper Award)*
-
-14. **Vincent Gbouna Zakka**, Zeyang Hou , Gaoyang Pang, Huayong Yang, Geng Yang. (2021). IoT-Enabled Robot Skin System for Enhancement of Safe Human-Robot Collaboration. *International Conference on Intelligent Robotics and Applications*. [DOI](https://doi.org/10.1007/978-3-030-89098-8_43)
-
-15. Wenzhou Heng, Gaoyang Pang, **Vincent Gbouna Zakka**, Zhibo Pang, Kang Yi, Huayong Yang, Geng Yang (2019). Facile Fabrication of Highly Soft Tactile Sensor based on Porous Sponge with Geometry Effect on Sensing Characteristics. *2nd IEEE International Flexible Electronics Technology Conference*. [DOI](https://doi.org/10.1109/IFETC46817.2019.9073774)
 
 AWARDS
 ======
 * Best Paper Runner-Up: International Conference on AI in Healthcare	2024
 * Best Paper Award: 22nd International Conference on Construction Applications of Virtual Reality	2022
-* UK Research and Innovation (UKRI) PhD Studentship: Fully funded doctoral research in Human activity analysis in smart environments, awarded by UKRI.	2022–Present
+* UK Research and Innovation (UKRI) PhD Studentship: Fully funded doctoral research in Human activity analysis in smart environments, awarded by UKRI.	2022–2025
 * F.C.T Scholarship Board: Ministerial Special Scholarship Award: Award of Excellence	2018
 * Liaoning University of Technology: Best Student in Electronic and Information Engineering Department	2016/2017 Academic Year
 * Liaoning University of Technology: Second Best Student in Electronic and Information Engineering Department	2015/2016 Academic Year
@@ -137,5 +99,5 @@ Action Recognition for Privacy-Preserving Ambient Assisted Living.
 Temporal Decoupling Graph Depthwise Separable Convolution Network (TD-GDSCN)
 * International Conference on Construction Applications of Virtual Reality (CONVR 2022), Seoul, South Korea.
 An Integrated Design of Energy and Indoor Environmental Quality System for Effective Building         Performance Management.
-* Internation Conference on Intelligent Robotics and Applications (ICIRA 2021), Yantai, China.
+* International Conference on Intelligent Robotics and Applications (ICIRA 2021), Yantai, China.
 IoT-Enabled Robot Skin System for Enhancement of Safe Human-Robot Collaboration.

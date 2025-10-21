@@ -14,7 +14,8 @@ This research focuses on the development of novel deep learning models for analy
 ---
 
 ## Computer Vision for Human-Centred Smart and Sustainable Building Management
-Our paper (*Action Recognition for Privacy-Preserving Ambient Assisted Living*) received the best paper award at the AI in Healthcare Conference 2024, recognising the contribution it made to advancing research in this field. Details of the paper can be found below:
+
+This research focuses on occupant-centred control of building systems to achieve the balance of a thermally comfortable environment and energy consumption. The focus is on non-invasive and privacy-preserving approaches to capture user data, which is then used to train deep learning models to analyse the comfort level of the user, which is then used to automate the building systems such as HVAC. 
 
 ---
 

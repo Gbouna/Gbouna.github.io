@@ -11,7 +11,7 @@ redirect_from:
   
 Education
 ======
-* Aston University: Ph.D. in Computer Science.  2022 – 2025
+* Aston University: Ph.D. in Computer Science.  Oct. 2022 – Sept. 2025
 * Aston University: Postgraduate Certificate Learning and Teaching in Higher Education (PGCert). Oct. 2023 – Nov. 2024
 * Aston University: Introduction to Learning and Teaching Practice in Higher Education (ILTP). March 2023 – Sept. 2023
 * Zhejiang University: Master of Engineering in Mechatronic Engineering. 	2018 – 2021

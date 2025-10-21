@@ -28,6 +28,7 @@ Our paper received the Best Paper Award for presenting an integrated, non-invasi
 
 [Paper](https://arxiv.org/abs/2503.23323)
 
+![Best Paper Award](CONVR2022_Best_paper.pdf)
 ---
 
 ## Featured Cover Paper: Enhancing Human-Robot Collaboration in Healthcare 4.0.

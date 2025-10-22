@@ -9,8 +9,9 @@ author_profile: true
 
 # Research Focus
 
-The research directions below aim to advance human-centered intelligent home environments that are adaptive, trustworthy, sustainable, and supportive of independent living and ageing in place. By integrating insights from computer vision, human–computer interaction, and embedded AI, my work seeks to design systems that not only understand and respond to human activity but also respect privacy, support user autonomy, and promote sustainable living. The following are my key research directions:
+The research directions below aim to advance human-centred intelligent home environments that are adaptive, trustworthy, sustainable, and supportive of independent living and ageing in place. By integrating insights from computer vision, human–computer interaction, and embedded AI, my work seeks to design systems that not only understand and respond to human activity but also respect privacy, support user autonomy, and promote sustainable living. The following are my key research directions:
 
+---
 ---
 
 ## Human Activity Analysis in the Home Environment

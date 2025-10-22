@@ -13,38 +13,14 @@ This research focuses on the development of novel deep learning models for analy
 
 ---
 
-## Computer Vision for Human-Centred Smart and Sustainable Building Management
+## User Acceptance of Ambient Assisted Living Technologies in the Home Environment
 
-This research focuses on occupant-centred control of building systems to achieve the balance of a thermally comfortable environment and energy consumption. The focus is on non-invasive and privacy-preserving approaches to capture user data, which is then used to train deep learning models to analyse the comfort level of the user, which is then used to automate the building systems such as HVAC. 
+This explores the human factors in the adoption of ambient assisted living systems in the home environment. The focus is on understanding user perspectives and exploring factors influencing the adoption of ambient assisted living technologies in the home environment. The overall goal is to ensure that ambient assisted living technologies satisfy the needs and concerns of prospective end users to enhance adoption and sustained usage. 
 
 ---
 
-## User Acceptance of Ambient Assisted Living Technologies in the Home Environment
+## Computer Vision for Human-Centred Smart and Sustainable Building Management
 
-This explores the human factors in the adoption of ambient assisted living systems in the home environment.
-
-Understanding User Perspectives on Ambient Assisted Living Technologies in the Home Environment.
-
-Factors Influencing the Adoption of Ambient Assisted Living Technologies in the Home Environment.
-
-
-
-Research in HCID covers a broad range of topics and design-oriented studies and interventions. Our work falls across three intersecting axes of research.
-
-The study of individual and social issues arising from and surrounding the proliferation of information and communication technologies.
-The development of design methods that enable us to engage with people and communities and explore new technological possibilities.
-The prototyping of interactive systems that use existing and novel technologies in response to real-world needs.
-
-
-Research in HCID covers a broad range of topics, approaches and contexts.
-
-
-
-The study of individual and social issues arising from and surrounding information and communication technologies.
-
-The development of design methods that enable us to engage with people and communities and explore new technological possibilities.
-
-The design of innovative digital technologies that use existing and novel approaches in response to real-world needs and opportunities.
-
+This research focuses on occupant-centred control of building systems to achieve the balance of a thermally comfortable environment and energy consumption. The focus is on non-invasive and privacy-preserving approaches to capture user data, which is then used to train deep learning models to analyse the comfort level of the user, which is then used to automate the building systems such as HVAC. 
 
 ---

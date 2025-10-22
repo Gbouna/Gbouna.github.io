@@ -19,8 +19,8 @@ This explores the human factors in the adoption of ambient assisted living syste
 
 ---
 
-## Computer Vision for Human-Centred Smart and Sustainable Building Management
+## Computer Vision for Smart and Sustainable Home Environment Management
 
-This research focuses on occupant-centred control of building systems to achieve the balance of a thermally comfortable environment and energy consumption. The focus is on non-invasive and privacy-preserving approaches to capture user data, which is then used to train deep learning models to analyse the comfort level of the user, which is then used to automate the building systems such as HVAC. 
+This research focuses on occupant-centred control of building systems to achieve the balance of a thermally comfortable home environment and energy consumption. The focus is on non-invasive and privacy-preserving approaches to capture user data, which is then used to train deep learning models to analyse the comfort level of the user, which is then used to automate the building systems such as HVAC. 
 
 ---

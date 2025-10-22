@@ -7,12 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a researcher specialising in Human-Computer Interaction (HCI) and Artificial Intelligence (AI), with expertise  in computer vision for ambient assisted living technologies. I am self-motivated, collaborative, and results-driven. My goal is to enhance the quality of life for the elderly by developing ambient assisted living technologies that support their independent living while addressing their needs and concerns.
-
-# Research Focus
-
-My research explores the intersection of HCI and AI, leveraging AI and HCI principles to design ambient assisted living technologies that prioritise user needs, concerns. My key research areas include:
-
-* Human Activity Analysis in Home Environment.
-* User Acceptance of Ambient Assisted Living Technologies in the Home Environment.
-* Computer Vision for Human-Centred Smart and Sustainable Building Management
+I conduct research on intelligent home environments that integrate computer vision, embedded AI, and human–computer interaction to support independent living and ageing in place. My work spans human activity recognition, user acceptance of ambient assisted living technologies, and occupant-centred control for energy-efficient home management. Across these directions, I focus on developing adaptive, privacy-preserving, and sustainable systems that promote user trust and comfort. Visit the Research page for more details about my research focus.

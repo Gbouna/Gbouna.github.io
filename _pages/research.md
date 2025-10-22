@@ -28,5 +28,3 @@ This research explores the human factors that shape the adoption and sustained u
 ## Computer Vision for Smart and Sustainable Home Environment Management
 
 This research investigates computer vision–based methods for occupant-centred control of home systems to achieve a balance between thermal comfort and energy efficiency. It focuses on developing non-invasive, privacy-preserving approaches to capture and interpret occupant data. Deep learning models are trained to estimate comfort levels, which are then used to automate systems such as HVAC in a way that enhances both user comfort and sustainability. 
-
----

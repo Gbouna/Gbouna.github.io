@@ -7,20 +7,24 @@ author_profile: true
 
 {% include base_path %}
 
-## Human Activity Analysis in Home Environment
+# Research Focus
 
-This research focuses on the development of novel deep learning models for analysing human activity in the home environment. The models are designed to address the challenges that influence user acceptance of activity monitoring in the home environment, as well as the unique challenges of deploying activity monitoring systems in the unstructured home environment. Some of the challenges include balancing the trade-off between accuracy and efficiency to enable accurate activity monitoring on low-cost resource-constrained embedded systems, privacy and data security in monitoring systems, and user agency and autonomy over monitoring systems.  
+The research directions below aim to advance human-centered intelligent home environments that are adaptive, trustworthy, and sustainable. By integrating insights from computer vision, human-computer interaction, and embedded AI, my work seeks to design systems that not only understand and respond to human activity but also respect privacy, support user autonomy, and promote sustainable living.
+
+## Human Activity Analysis in the Home Environment
+
+This research focuses on developing novel deep learning models for analysing human activity within home environments. The aim is to address both the technical and human-centered challenges that influence user acceptance and system performance in home activity monitoring. Key challenges include balancing the trade-off between accuracy and computational efficiency to enable real-time monitoring on low-cost, resource-constrained embedded systems; ensuring privacy and data security; and supporting user agency and autonomy in how monitoring systems operate within personal spaces.
 
 ---
 
 ## User Acceptance of Ambient Assisted Living Technologies in the Home Environment
 
-This explores the human factors in the adoption of ambient assisted living systems in the home environment. The focus is on understanding user perspectives and exploring factors influencing the adoption of ambient assisted living technologies in the home environment. The overall goal is to ensure that ambient assisted living technologies satisfy the needs and concerns of prospective end users to enhance adoption and sustained usage. 
+This research explores the human factors that shape the adoption and sustained use of ambient assisted living (AAL) technologies in home environments. It seeks to understand user perceptions, preferences, and concerns regarding these systems, with a focus on identifying the barriers and facilitators to their acceptance. The overall goal is to ensure that AAL technologies are designed to meet the needs, expectations, and ethical considerations of end users, thereby promoting trust, adoption, and long-term engagement.
 
 ---
 
 ## Computer Vision for Smart and Sustainable Home Environment Management
 
-This research focuses on occupant-centred control of building systems to achieve the balance of a thermally comfortable home environment and energy consumption. The focus is on non-invasive and privacy-preserving approaches to capture user data, which is then used to train deep learning models to analyse the comfort level of the user, which is then used to automate the building systems such as HVAC. 
+This research investigates computer vision–based methods for occupant-centred control of home systems to achieve a balance between thermal comfort and energy efficiency. It focuses on developing non-invasive, privacy-preserving approaches to capture and interpret occupant data. Deep learning models are trained to estimate comfort levels, which are then used to automate systems such as HVAC in a way that enhances both user comfort and sustainability. 
 
 ---

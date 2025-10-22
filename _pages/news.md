@@ -15,7 +15,7 @@ As part of the International Program Committee, I was honoured to receive the **
 
 ## Best Paper Award: Privacy-Preserving Activity Recognition for Ambient Assisted Living
 
-Our paper received the Best Paper Award for its innovative approach to preserving user privacy in computer vision-based activity monitoring for older adults. We introduced a method that performs accurate activity recognition locally, eliminating the need to stream sensitive data to the cloud. The proposed TD-GDSCN model, combined with a novel data augmentation technique, addresses real-time performance and environmental variability. Experimental results on benchmark datasets demonstrate superior accuracy and robustness compared to existing methods. Details of the paper can be found below:
+Our paper received the Best Paper Award for its innovative approach to preserving user privacy in computer vision-based activity monitoring. We introduced a method that performs accurate activity recognition locally, eliminating the need to stream sensitive data to the cloud. The proposed TD-GDSCN model, combined with a novel data augmentation technique, addresses real-time performance and environmental variability. Experimental results on benchmark datasets demonstrate superior accuracy and robustness compared to existing methods. Details of the paper can be found below:
 
 [Paper](https://doi.org/10.1007/978-3-031-67285-9_15).  ___ [Code](https://github.com/Gbouna/TD-GDSCN).  ___ [Demo](https://www.youtube.com/watch?v=FExfkhTpHJA).  
 

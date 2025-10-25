@@ -222,7 +222,7 @@ body {
     <b>Vincent Gbouna Zakka</b>, Zhuangzhuang Dai, Luis J. Manso (2023). 
     “Action Recognition for Privacy-Preserving Ambient Assisted Living.” 
     <i>International Conference on AI in Healthcare.</i> 
-    <br><i>(Best Paper Award)</i>
+    <span class="badge"> Best Paper Award</span>
   </div>
   <div class="link-group">
     <a href="https://doi.org/10.1007/978-3-031-67285-9_15" class="link-btn" target="_blank">DOI</a>
@@ -230,6 +230,7 @@ body {
     <a href="https://www.youtube.com/watch?v=FExfkhTpHJA" class="link-btn" target="_blank">Demo</a>
   </div>
 </div>
+
 
 <!-- ===================== 2022 ===================== -->
 <span class="pub-year">2022</span>

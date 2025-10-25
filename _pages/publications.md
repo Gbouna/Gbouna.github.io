@@ -254,7 +254,7 @@ body {
     <b>Vincent Gbouna Zakka</b>, Minhyun Lee (2022). 
     An Integrated Design of Energy and Indoor Environmental Quality System for Effective Building Performance Management. 
     <i>Proceedings of the 22nd International Conference on Construction Applications of Virtual Reality.</i> 
-    <br><i>(Best Paper Award)</i>
+    <span class="badge"> Best Paper Award</span>
   </div>
   <div class="link-group">
     <a href="https://arxiv.org/abs/2503.23323" class="link-btn" target="_blank">arXiv</a>
@@ -269,7 +269,7 @@ body {
     <b>Vincent Gbouna Zakka</b>, Gaoyang Pang, Geng Yang, Zeyang Hou, Honghao Lv, Zhangwei Yu, Zhibo Pang (2021). 
     User-interactive robot skin with large-area scalability for safer and natural human-robot collaboration in future telehealthcare. 
     <i>IEEE Journal of Biomedical and Health Informatics.</i> 
-    <br><i>(Featured on Cover Paper)</i>
+    <span class="badge"> Featured on Cover Paper</span>
   </div>
   <div class="link-group">
     <a href="https://doi.org/10.1109/JBHI.2021.3082563" class="link-btn" target="_blank">DOI</a>

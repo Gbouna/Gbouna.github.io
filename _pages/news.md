@@ -77,7 +77,7 @@ hr {
 }
 </style>
 
-<div class="pub-header"> Latest News</div>
+<div class="pub-header"> LATEST NEWS</div>
 
 <div class="news-item">
   <img src="{{ site.baseurl }}/assets/images/news/reviewer.jpg" alt="Outstanding Reviewer Award">

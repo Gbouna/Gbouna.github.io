@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: 
 permalink: /publications/
 author_profile: true
 ---
@@ -97,9 +97,9 @@ body {
     <i>Journal of Big Data Mining and Analytics.</i>
   </div>
   <div class="link-group">
-    <a href="https://doi.org/10.26599/BDMA.2025.9020003" class="link-btn">DOI</a>
-    <a href="https://github.com/Gbouna/RE-TCN" class="link-btn">Code</a>
-    <a href="https://www.youtube.com/watch?v=pQJrz4SVdi4&t=2s" class="link-btn">Demo</a>
+    <a href="https://doi.org/10.26599/BDMA.2025.9020003" class="link-btn" target="_blank">DOI</a>
+    <a href="https://github.com/Gbouna/RE-TCN" class="link-btn" target="_blank">Code</a>
+    <a href="https://www.youtube.com/watch?v=pQJrz4SVdi4&t=2s" class="link-btn" target="_blank">Demo</a>
   </div>
 </div>
 

@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "LATEST NEWS"
+title: 
 permalink: /news/
 author_profile: true
 ---

@@ -107,7 +107,7 @@ body {
 <div class="publication">
   <div class="pub-text">
     <b>Vincent Gbouna Zakka</b>, Zhuangzhuang Dai, Luis J. Manso (2025). 
-    “Action Recognition in Real-World Ambient Assisted Living Environment.” 
+    Action Recognition in Real-World Ambient Assisted Living Environment. 
     <i>Journal of Big Data Mining and Analytics.</i>
   </div>
   <div class="link-group">
@@ -121,7 +121,7 @@ body {
   <div class="pub-text">
     Xue Cui, Minhyun Lee, Mohammad Nyme Uddin, Xuange Zhang, 
     <b>Vincent Gbouna Zakka</b> (2025). 
-    “Analysing different household energy use patterns using clustering and machine learning.” 
+    Analysing different household energy use patterns using clustering and machine learning.
     <i>Renewable and Sustainable Energy Reviews.</i>
   </div>
   <div class="link-group">
@@ -132,7 +132,7 @@ body {
 <div class="publication">
   <div class="pub-text">
     Xue Cui, Minhyun Lee, <b>Vincent Gbouna Zakka</b> (2024). 
-    “A computer vision-based model for occupancy detection using low-resolution thermal images.” 
+    A computer vision-based model for occupancy detection using low-resolution thermal images. 
     <i>6th International Conference on Building Energy and Environment.</i>
   </div>
   <div class="link-group">
@@ -147,7 +147,7 @@ body {
   <div class="pub-text">
     Zhuangzhuang Dai, <b>Vincent Gbouna Zakka</b>, Luis J. Manso, Martin Rudorfer, 
     Ulysses Bernardet, Johanna Zumer, Manolya Kavakli-Thorne (2024). 
-    “Sensors, Techniques and Future Trends of Human Engagement Enabled Applications: A Review.” 
+    Sensors, Techniques and Future Trends of Human Engagement Enabled Applications: A Review.
     <i>Algorithms</i>, 17(12).
   </div>
   <div class="link-group">
@@ -160,7 +160,7 @@ body {
     Darras, Kevin; Balle, Marcel; Xu, Wenxiu; Yan, Yang; 
     <b>Zakka Gbouna, Vincent</b>; Toletdo, Manuel; Sheng, Dong; Lin, Wei; Zhang, Boyu; 
     Lan, Zhenzhong; Fupeng, Li; Wanger, Thomas (2024). 
-    “Eyes on nature: Embedded vision cameras for terrestrial biodiversity monitoring.” 
+    Eyes on nature: Embedded vision cameras for terrestrial biodiversity monitoring. 
     <i>Methods in Ecology and Evolution.</i>
   </div>
   <div class="link-group">
@@ -171,7 +171,7 @@ body {
 <div class="publication">
   <div class="pub-text">
     <b>Vincent Gbouna Zakka</b>, Minhyun Lee, Ruxiaoxiao Zhang, Lijie Huang, Seunghoon Jung, Taehoon Hong (2024). 
-    “Non-invasive vision-based personal comfort model using thermographic images and deep learning.” 
+    Non-invasive vision-based personal comfort model using thermographic images and deep learning. 
     <i>Automation in Construction.</i>
   </div>
   <div class="link-group">
@@ -183,7 +183,7 @@ body {
 <div class="publication">
   <div class="pub-text">
     <b>Vincent Gbouna Zakka</b>, Minhyun Lee (2024). 
-    “A generalized thermal comfort model using thermographic images and compact convolutional transformers: Towards scalable and adaptive occupant comfort optimization.” 
+    A generalized thermal comfort model using thermographic images and compact convolutional transformers: Towards scalable and adaptive occupant comfort optimization. 
     <i>Building and Environment.</i>
   </div>
   <div class="link-group">
@@ -195,7 +195,7 @@ body {
 <div class="publication">
   <div class="pub-text">
     <b>Vincent Gbouna Zakka</b>, Zhuangzhuang Dai, Luis J. Manso (2024). 
-    “Multi-Head Adaptive Graph Convolution Network for Sparse Point Cloud-Based Human Activity Recognition.” 
+    Multi-Head Adaptive Graph Convolution Network for Sparse Point Cloud-Based Human Activity Recognition. 
     <i>Submitted to IEEE/RSJ International Conference on Intelligent Robots and Systems.</i>
   </div>
   <div class="link-group">
@@ -210,7 +210,7 @@ body {
 <div class="publication">
   <div class="pub-text">
     Kexin Xie, Minhyun Lee, Rihab Khalid, <b>Vincent Gbouna Zakka</b> (2023). 
-    “The impact of personal environmental control on the performance of thermal systems: Building energy consumption, occupant thermal comfort and productivity.” 
+    The impact of personal environmental control on the performance of thermal systems: Building energy consumption, occupant thermal comfort and productivity. 
     <i>Energy and Buildings.</i>
   </div>
   <div class="link-group">
@@ -221,7 +221,7 @@ body {
 <div class="publication">
   <div class="pub-text">
     <b>Vincent Gbouna Zakka</b>, Zhuangzhuang Dai, Luis J. Manso (2023). 
-    “Hierarchical Temporal Convolution Network: Towards Privacy-Centric Activity Recognition.” 
+    Hierarchical Temporal Convolution Network: Towards Privacy-Centric Activity Recognition. 
     <i>16th International Conference on Ubiquitous Computing and Ambient Intelligence.</i>
   </div>
   <div class="link-group">
@@ -234,9 +234,9 @@ body {
 <div class="publication">
   <div class="pub-text">
     <b>Vincent Gbouna Zakka</b>, Zhuangzhuang Dai, Luis J. Manso (2023). 
-    “Action Recognition for Privacy-Preserving Ambient Assisted Living.” 
+    Action Recognition for Privacy-Preserving Ambient Assisted Living. 
     <i>International Conference on AI in Healthcare.</i> 
-    <span class="badge">🏆 Best Paper Award</span>
+    <span class="badge"> Best Paper Award</span>
   </div>
   <div class="link-group">
     <a href="https://doi.org/10.1007/978-3-031-67285-9_15" class="link-btn" target="_blank">DOI</a>
@@ -252,7 +252,7 @@ body {
 <div class="publication">
   <div class="pub-text">
     <b>Vincent Gbouna Zakka</b>, Minhyun Lee (2022). 
-    “An Integrated Design of Energy and Indoor Environmental Quality System for Effective Building Performance Management.” 
+    An Integrated Design of Energy and Indoor Environmental Quality System for Effective Building Performance Management. 
     <i>Proceedings of the 22nd International Conference on Construction Applications of Virtual Reality.</i> 
     <br><i>(Best Paper Award)</i>
   </div>
@@ -267,7 +267,7 @@ body {
 <div class="publication">
   <div class="pub-text">
     <b>Vincent Gbouna Zakka</b>, Gaoyang Pang, Geng Yang, Zeyang Hou, Honghao Lv, Zhangwei Yu, Zhibo Pang (2021). 
-    “User-interactive robot skin with large-area scalability for safer and natural human-robot collaboration in future telehealthcare.” 
+    User-interactive robot skin with large-area scalability for safer and natural human-robot collaboration in future telehealthcare. 
     <i>IEEE Journal of Biomedical and Health Informatics.</i> 
     <br><i>(Featured on Cover Paper)</i>
   </div>
@@ -279,7 +279,7 @@ body {
 <div class="publication">
   <div class="pub-text">
     <b>Vincent Gbouna Zakka</b>, Zeyang Hou, Gaoyang Pang, Huayong Yang, Geng Yang (2021). 
-    “IoT-Enabled Robot Skin System for Enhancement of Safe Human-Robot Collaboration.” 
+    IoT-Enabled Robot Skin System for Enhancement of Safe Human-Robot Collaboration. 
     <i>International Conference on Intelligent Robotics and Applications.</i>
   </div>
   <div class="link-group">
@@ -293,7 +293,7 @@ body {
 <div class="publication">
   <div class="pub-text">
     Wenzhou Heng, Gaoyang Pang, <b>Vincent Gbouna Zakka</b>, Zhibo Pang, Kang Yi, Huayong Yang, Geng Yang (2019). 
-    “Facile Fabrication of Highly Soft Tactile Sensor based on Porous Sponge with Geometry Effect on Sensing Characteristics.” 
+    Facile Fabrication of Highly Soft Tactile Sensor based on Porous Sponge with Geometry Effect on Sensing Characteristics. 
     <i>2nd IEEE International Flexible Electronics Technology Conference.</i>
   </div>
   <div class="link-group">

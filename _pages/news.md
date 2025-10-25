@@ -66,7 +66,7 @@ hr {
 </style>
 
 <div class="news-item">
-  <img src="{{ site.baseurl }}/assets/images/news/reviewer.jpg.jfif" alt="Outstanding Reviewer Award">
+  <img src="{{ site.baseurl }}/assets/images/news/reviewer.jpg" alt="Outstanding Reviewer Award">
   <div class="news-text">
     <h2>Outstanding Reviewer Award: International Conference on AI in Healthcare 2025</h2>
     <p>

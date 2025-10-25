@@ -39,6 +39,18 @@ author_profile: true
   color: #333;
 }
 
+/* ====== Header ====== */
+.pub-header {
+  background-color: #e4e4e4;
+  padding: 2rem 1rem;
+  text-align: center;
+  font-size: 2.2rem;
+  font-weight: 700;
+  color: #111;
+  border-radius: 10px;
+  margin-bottom: 2rem;
+}
+
 .link-group {
   margin-top: 10px;
 }
@@ -64,6 +76,8 @@ hr {
   margin: 50px 0;
 }
 </style>
+
+<div class="pub-header"> Latest News</div>
 
 <div class="news-item">
   <img src="{{ site.baseurl }}/assets/images/news/reviewer.jpg" alt="Outstanding Reviewer Award">

@@ -7,7 +7,7 @@ author_profile: true
 
 ## 2025
 
-**Vincent Gbouna Zakka**, Zhuangzhuang Dai, Luis J. Manso (2025). Action Recognition in Real-World Ambient Assisted Living Environment. *Journal of Big Data Mining and Analytics*. [DOI](https://doi.org/10.26599/BDMA.2025.9020003). ___ [Code](https://github.com/Gbouna/RE-TCN). --- [Demo](https://www.youtube.com/watch?v=pQJrz4SVdi4&t=2s)
+**Vincent Gbouna Zakka**, Zhuangzhuang Dai, Luis J. Manso (2025). Action Recognition in Real-World Ambient Assisted Living Environment. *Journal of Big Data Mining and Analytics*. [DOI](https://doi.org/10.26599/BDMA.2025.9020003). ___ [Code](https://github.com/Gbouna/RE-TCN). ___ [Demo](https://www.youtube.com/watch?v=pQJrz4SVdi4&t=2s)
 
 Xue Cui, Minhyun Lee, Mohammad Nyme Uddin, Xuange Zhang, **Vincent Gbouna Zakka** (2025). Analysing different household energy use patterns using clustering and machine learning. *Renewable and Sustainable Energy Reviews*. [DOI](https://doi.org/10.1016/j.rser.2025.115335)
 

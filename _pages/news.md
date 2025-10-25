@@ -66,7 +66,8 @@ hr {
 </style>
 
 <div class="news-item">
-  <img src="reviewer.jpg" alt="Outstanding Reviewer Award">
+  <!-- <img src="reviewer.jpg" alt="Outstanding Reviewer Award"> -->
+  ![Outstanding Reviewer Award](reviewer.jpg)
   <div class="news-text">
     <h2>Outstanding Reviewer Award: International Conference on AI in Healthcare 2025</h2>
     <p>
@@ -82,7 +83,8 @@ hr {
 <hr>
 
 <div class="news-item">
-  <img src="aiiH2025.jfif" alt="Best Paper Award">
+  <!-- <img src="aiiH2025.jfif" alt="Best Paper Award"> -->
+  ![Best Paper Award](convr2022.jpg)
   <div class="news-text">
     <h2>Best Paper Award: Privacy-Preserving Activity Recognition for Ambient Assisted Living</h2>
     <p>
@@ -102,7 +104,8 @@ hr {
 <hr>
 
 <div class="news-item">
-  <img src="convr2022.jpg" alt="Best Paper Award">
+  <!-- <img src="convr2022.jpg" alt="Best Paper Award"> -->
+  ![cover page](cover_page.jfif)
   <div class="news-text">
     <h2>Best Paper Award: IoT-Based Monitoring System for Smart Building Energy and Environmental Management</h2>
     <p>

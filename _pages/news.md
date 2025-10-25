@@ -146,5 +146,8 @@ hr {
       Operating in both interaction and safety modes, the system supports gesture-based control 
       and obstacle avoidance, enhancing telehealthcare delivery in human-centred environments.
     </p>
+    <div class="link-group">
+      <a href="https://doi.org/10.1109/JBHI.2021.3082563" class="link-btn" target="_blank">Paper</a>
+    </div>
   </div>
 </div>

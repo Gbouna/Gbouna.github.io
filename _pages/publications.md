@@ -99,7 +99,7 @@ body {
 }
 </style>
 
-<div class="pub-header"> Publications</div>
+<div class="pub-header"> PUBLICATIONS</div>
 
 <!-- ===================== 2025 ===================== -->
 <span class="pub-year">2025</span>

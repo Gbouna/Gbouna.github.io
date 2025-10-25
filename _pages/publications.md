@@ -111,7 +111,7 @@ body {
     <i>Renewable and Sustainable Energy Reviews.</i>
   </div>
   <div class="link-group">
-    <a href="https://doi.org/10.1016/j.rser.2025.115335" class="link-btn">DOI</a>
+    <a href="https://doi.org/10.1016/j.rser.2025.115335" class="link-btn" target="_blank">DOI</a>
   </div>
 </div>
 
@@ -122,7 +122,7 @@ body {
     <i>6th International Conference on Building Energy and Environment.</i>
   </div>
   <div class="link-group">
-    <a href="https://arxiv.org/abs/2505.08336" class="link-btn">arXiv</a>
+    <a href="https://arxiv.org/abs/2505.08336" class="link-btn" target="_blank">arXiv</a>
   </div>
 </div>
 
@@ -137,7 +137,7 @@ body {
     <i>Algorithms</i>, 17(12).
   </div>
   <div class="link-group">
-    <a href="https://doi.org/10.3390/a17120560" class="link-btn">DOI</a>
+    <a href="https://doi.org/10.3390/a17120560" class="link-btn" target="_blank">DOI</a>
   </div>
 </div>
 
@@ -150,7 +150,7 @@ body {
     <i>Methods in Ecology and Evolution.</i>
   </div>
   <div class="link-group">
-    <a href="https://doi.org/10.1111/2041-210X.14436" class="link-btn">DOI</a>
+    <a href="https://doi.org/10.1111/2041-210X.14436" class="link-btn" target="_blank">DOI</a>
   </div>
 </div>
 
@@ -161,8 +161,8 @@ body {
     <i>Automation in Construction.</i>
   </div>
   <div class="link-group">
-    <a href="https://doi.org/10.1016/j.autcon.2024.105811" class="link-btn">DOI</a>
-    <a href="https://github.com/Gbouna/Non-invasive-vision-based-personal-comfort-model" class="link-btn">Code</a>
+    <a href="https://doi.org/10.1016/j.autcon.2024.105811" class="link-btn" target="_blank">DOI</a>
+    <a href="https://github.com/Gbouna/Non-invasive-vision-based-personal-comfort-model" class="link-btn" target="_blank">Code</a>
   </div>
 </div>
 
@@ -173,8 +173,8 @@ body {
     <i>Building and Environment.</i>
   </div>
   <div class="link-group">
-    <a href="https://doi.org/10.1016/j.buildenv.2024.112118" class="link-btn">DOI</a>
-    <a href="https://github.com/Gbouna/Generalized-Thermal-Comfort-Model" class="link-btn">Code</a>
+    <a href="https://doi.org/10.1016/j.buildenv.2024.112118" class="link-btn" target="_blank">DOI</a>
+    <a href="https://github.com/Gbouna/Generalized-Thermal-Comfort-Model" class="link-btn" target="_blank">Code</a>
   </div>
 </div>
 
@@ -185,8 +185,8 @@ body {
     <i>Submitted to IEEE/RSJ International Conference on Intelligent Robots and Systems.</i>
   </div>
   <div class="link-group">
-    <a href="https://arxiv.org/abs/2504.02778" class="link-btn">arXiv</a>
-    <a href="https://github.com/Gbouna/MAK-GCN" class="link-btn">Code</a>
+    <a href="https://arxiv.org/abs/2504.02778" class="link-btn" target="_blank">arXiv</a>
+    <a href="https://github.com/Gbouna/MAK-GCN" class="link-btn" target="_blank">Code</a>
   </div>
 </div>
 
@@ -200,7 +200,7 @@ body {
     <i>Energy and Buildings.</i>
   </div>
   <div class="link-group">
-    <a href="https://doi.org/10.1016/j.enbuild.2023.113552" class="link-btn">DOI</a>
+    <a href="https://doi.org/10.1016/j.enbuild.2023.113552" class="link-btn" target="_blank">DOI</a>
   </div>
 </div>
 
@@ -211,9 +211,9 @@ body {
     <i>16th International Conference on Ubiquitous Computing and Ambient Intelligence.</i>
   </div>
   <div class="link-group">
-    <a href="https://doi.org/10.1007/978-3-031-77571-0_33" class="link-btn">DOI</a>
-    <a href="https://github.com/Gbouna/HT-ConvNet" class="link-btn">Code</a>
-    <a href="https://www.youtube.com/watch?v=7vdGAu3zcCA" class="link-btn">Demo</a>
+    <a href="https://doi.org/10.1007/978-3-031-77571-0_33" class="link-btn" target="_blank">DOI</a>
+    <a href="https://github.com/Gbouna/HT-ConvNet" class="link-btn" target="_blank">Code</a>
+    <a href="https://www.youtube.com/watch?v=7vdGAu3zcCA" class="link-btn" target="_blank">Demo</a>
   </div>
 </div>
 
@@ -225,9 +225,9 @@ body {
     <br><i>(Best Paper Award)</i>
   </div>
   <div class="link-group">
-    <a href="https://doi.org/10.1007/978-3-031-67285-9_15" class="link-btn">DOI</a>
-    <a href="https://github.com/Gbouna/Action-Recognition-for-Privacy-Preserving-Ambient-Assisted-Living" class="link-btn">Code</a>
-    <a href="https://www.youtube.com/watch?v=FExfkhTpHJA" class="link-btn">Demo</a>
+    <a href="https://doi.org/10.1007/978-3-031-67285-9_15" class="link-btn" target="_blank">DOI</a>
+    <a href="https://github.com/Gbouna/Action-Recognition-for-Privacy-Preserving-Ambient-Assisted-Living" class="link-btn" target="_blank">Code</a>
+    <a href="https://www.youtube.com/watch?v=FExfkhTpHJA" class="link-btn" target="_blank">Demo</a>
   </div>
 </div>
 
@@ -242,7 +242,7 @@ body {
     <br><i>(Best Paper Award)</i>
   </div>
   <div class="link-group">
-    <a href="https://arxiv.org/abs/2503.23323" class="link-btn">arXiv</a>
+    <a href="https://arxiv.org/abs/2503.23323" class="link-btn" target="_blank">arXiv</a>
   </div>
 </div>
 
@@ -257,7 +257,7 @@ body {
     <br><i>(Featured on Cover Paper)</i>
   </div>
   <div class="link-group">
-    <a href="https://doi.org/10.1109/JBHI.2021.3082563" class="link-btn">DOI</a>
+    <a href="https://doi.org/10.1109/JBHI.2021.3082563" class="link-btn" target="_blank">DOI</a>
   </div>
 </div>
 
@@ -268,7 +268,7 @@ body {
     <i>International Conference on Intelligent Robotics and Applications.</i>
   </div>
   <div class="link-group">
-    <a href="https://doi.org/10.1007/978-3-030-89098-8_43" class="link-btn">DOI</a>
+    <a href="https://doi.org/10.1007/978-3-030-89098-8_43" class="link-btn" target="_blank">DOI</a>
   </div>
 </div>
 
@@ -282,6 +282,6 @@ body {
     <i>2nd IEEE International Flexible Electronics Technology Conference.</i>
   </div>
   <div class="link-group">
-    <a href="https://doi.org/10.1109/IFETC46817.2019.9073774" class="link-btn">DOI</a>
+    <a href="https://doi.org/10.1109/IFETC46817.2019.9073774" class="link-btn" target="_blank">DOI</a>
   </div>
 </div>

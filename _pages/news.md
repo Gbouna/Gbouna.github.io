@@ -116,7 +116,7 @@ hr {
 <hr>
 
 <div class="news-item">
-  <img src="{{ site.baseurl }}/assets/images/news/convr2022.jpg" alt="Best Paper Award">
+  <img src="{{ site.baseurl }}/assets/images/news/best_paper.jpg" alt="Best Paper Award">
   <div class="news-text">
     <h2>Best Paper Award: IoT-Based Monitoring System for Smart Building Energy and Environmental Management</h2>
     <p>

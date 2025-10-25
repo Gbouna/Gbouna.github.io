@@ -11,6 +11,7 @@ author_profile: true
 
 As part of the International Program Committee, I was honoured to receive the **Outstanding Reviewer Award** at the AI in Healthcare Conference 2025, in recognition of my contributions to the peer review process. It's a privilege to support the scientific community and help maintain the quality of research in this rapidly evolving field.
 
+![Outstanding Reviewer Award](reviewer.jpg)
 ---
 
 ## Best Paper Award: Privacy-Preserving Activity Recognition for Ambient Assisted Living

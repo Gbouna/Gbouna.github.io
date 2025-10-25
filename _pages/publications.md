@@ -107,7 +107,7 @@ body {
 <div class="publication">
   <div class="pub-text">
     <b>Vincent Gbouna Zakka</b>, Zhuangzhuang Dai, Luis J. Manso (2025). 
-    Action Recognition in Real-World Ambient Assisted Living Environment. 
+    Action Recognition in Real-World Ambient Assisted Living Environment.
     <i>Journal of Big Data Mining and Analytics.</i>
   </div>
   <div class="link-group">

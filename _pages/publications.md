@@ -24,6 +24,20 @@ body {
   margin-bottom: 2rem;
 }
 
+  /* ====== Awards ====== */
+  .badge {
+  display: inline-block;
+  background-color: #ffeaa7; /* soft gold background */
+  color: #d35400;            /* warm orange text */
+  font-weight: 600;
+  font-size: 0.85em;
+  padding: 3px 8px;
+  border-radius: 12px;
+  margin-left: 8px;
+  border: 1px solid #f1c40f;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+}
+  
 /* ====== Year Header ====== */
 .pub-year {
   font-size: 1.6rem;

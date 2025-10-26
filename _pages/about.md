@@ -149,7 +149,14 @@ redirect_from:
   <div class="highlight-grid">
 
     <!-- Highlight 1 -->
-    <div class="highlight-card">
+    <div class="highlight-card reverse">
+      <div class="highlight-media">
+        <!-- Example background video -->
+        <video autoplay loop muted playsinline class="bg-video">
+          <source src="{{ site.baseurl }}/assets/videos/robot_skin.mp4" type="video/mp4">
+          Your browser does not support the video tag.
+        </video>
+      </div>
       <div class="highlight-text">
         <h3> Intelligent Home Activity Understanding</h3>
         <p>
@@ -158,11 +165,8 @@ redirect_from:
           The goal is to support ageing in place through context-aware, human-centred systems.
         </p>
       </div>
-      <div class="highlight-media">
-        <!-- Example image placeholder -->
-        <img src="{{ site.baseurl }}/assets/images/highlight1.jpg" alt="Activity Recognition">
-      </div>
     </div>
+
 
     <!-- Highlight 2 -->
     <div class="highlight-card reverse">
@@ -197,6 +201,7 @@ redirect_from:
         <img src="{{ site.baseurl }}/assets/images/highlight3.jpg" alt="Sustainable Smart Home">
       </div>
     </div>
+
 
   </div>
 </div>

@@ -169,6 +169,21 @@ redirect_from:
 
 
     <!-- Highlight 2 -->
+    <div class="highlight-card">
+      <div class="highlight-text">
+        <h3> Sustainable & Adaptive Smart Homes</h3>
+        <p>
+          Designing vision-based solutions that dynamically manage energy and comfort. 
+          These systems integrate occupant feedback and AI-driven control strategies 
+          for improved building sustainability and user satisfaction.
+        </p>
+      </div>
+      <div class="highlight-media">
+        <img src="{{ site.baseurl }}/assets/images/thermal_comfort.jpg" alt="Sustainable Smart Home">
+      </div>
+    </div>
+
+    <!-- Highlight 3 -->
     <div class="highlight-card reverse">
       <div class="highlight-media">
         <!-- Example background video -->
@@ -186,22 +201,6 @@ redirect_from:
         </p>
       </div>
     </div>
-
-    <!-- Highlight 3 -->
-    <div class="highlight-card">
-      <div class="highlight-text">
-        <h3> Sustainable & Adaptive Smart Homes</h3>
-        <p>
-          Designing vision-based solutions that dynamically manage energy and comfort. 
-          These systems integrate occupant feedback and AI-driven control strategies 
-          for improved building sustainability and user satisfaction.
-        </p>
-      </div>
-      <div class="highlight-media">
-        <img src="{{ site.baseurl }}/assets/images/thermal_comfort.jpg" alt="Sustainable Smart Home">
-      </div>
-    </div>
-
 
   </div>
 </div>

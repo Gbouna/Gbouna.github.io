@@ -158,7 +158,7 @@ redirect_from:
         </video>
       </div>
       <div class="highlight-text">
-        <h3> Intelligent Home Activity Understanding</h3>
+        <h3> Privacy-preserving Human Activity Recognition</h3>
         <p>
           Developing deep learning models for fine-grained recognition of daily activities 
           while preserving user privacy through on-device processing. 

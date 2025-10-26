@@ -198,7 +198,7 @@ redirect_from:
         </p>
       </div>
       <div class="highlight-media">
-        <img src="{{ site.baseurl }}/assets/images/highlight3.jpg" alt="Sustainable Smart Home">
+        <img src="{{ site.baseurl }}/assets/images/thermal_comfort.jpg" alt="Sustainable Smart Home">
       </div>
     </div>
 

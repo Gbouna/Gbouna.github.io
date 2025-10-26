@@ -169,7 +169,7 @@ redirect_from:
       <div class="highlight-media">
         <!-- Example background video -->
         <video autoplay loop muted playsinline class="bg-video">
-          <source src="{{ site.baseurl }}/assets/videos/highlight2.mp4" type="video/mp4">
+          <source src="{{ site.baseurl }}/assets/videos/robot_skin.mp4" type="video/mp4">
           Your browser does not support the video tag.
         </video>
       </div>

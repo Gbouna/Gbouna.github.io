@@ -145,7 +145,7 @@ redirect_from:
 
 <!-- ====== Research Highlights Section ====== -->
 <div class="highlight-section">
-  <h2>✨ Research Highlights</h2>
+  <h2> Research Highlights</h2>
   <div class="highlight-grid">
 
     <!-- Highlight 1 -->

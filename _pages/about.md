@@ -15,7 +15,7 @@ redirect_from:
 .about-intro {
   background: linear-gradient(120deg, #f7f9fb, #e6edf3);
   padding: 3rem 1.5rem;
-  text-align: center;
+  text-align: justify;
   border-radius: 16px;
   box-shadow: 0 4px 12px rgba(0,0,0,0.05);
   margin-bottom: 3rem;

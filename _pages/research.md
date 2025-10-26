@@ -72,7 +72,7 @@ author_profile: true
 <div class="research-grid">
 
   <div class="research-card">
-    <h3>🏠 Human Activity Analysis in the Home Environment</h3>
+    <h3> Human Activity Analysis in the Home Environment</h3>
     <p>
       This research focuses on developing novel deep learning models for analysing human activity within home environments. 
       The aim is to address both the technical and human-centered challenges that influence user acceptance and system performance in home activity monitoring. 
@@ -82,7 +82,7 @@ author_profile: true
   </div>
 
   <div class="research-card">
-    <h3>🤖 User Acceptance of Ambient Assisted Living Technologies</h3>
+    <h3> User Acceptance of Ambient Assisted Living Technologies</h3>
     <p>
       This research explores the human factors that shape the adoption and sustained use of ambient assisted living (AAL) technologies in home environments. 
       It seeks to understand user perceptions, preferences, and concerns regarding these systems, 
@@ -93,7 +93,7 @@ author_profile: true
   </div>
 
   <div class="research-card">
-    <h3>🌿 Computer Vision for Smart & Sustainable Homes</h3>
+    <h3> Computer Vision for Smart & Sustainable Homes</h3>
     <p>
       This research investigates computer vision–based methods for occupant-centred control of home systems 
       to achieve a balance between thermal comfort and energy efficiency. 

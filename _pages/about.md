@@ -192,7 +192,7 @@ redirect_from:
       <div class="highlight-text">
         <h3> Sustainable & Adaptive Smart Homes</h3>
         <p>
-          Designing IoT and vision-based solutions that dynamically manage energy and comfort. 
+          Designing vision-based solutions that dynamically manage energy and comfort. 
           These systems integrate occupant feedback and AI-driven control strategies 
           for improved building sustainability and user satisfaction.
         </p>

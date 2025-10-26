@@ -181,7 +181,7 @@ redirect_from:
         <h3> Human–Robot Collaboration in Healthcare</h3>
         <p>
           Exploring safe and intuitive interaction methods between humans and assistive robots 
-          using capacitive sensing and adaptive AI. This research aims to improve telehealthcare 
+          using capacitive sensing. This research aims to improve telehealthcare 
           and rehabilitation support in smart environments.
         </p>
       </div>

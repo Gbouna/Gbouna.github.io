@@ -42,7 +42,7 @@ author_profile: true
 /* ====== Header ====== */
 .pub-header {
   background-color: #e4e4e4;
-  padding: 2rem 1rem;
+  padding: 1rem 1rem;
   text-align: center;
   font-size: 2.2rem;
   font-weight: 700;

@@ -56,16 +56,15 @@ redirect_from:
 /* Each highlight card */
 .highlight-card {
   display: flex;
-  flex-direction: row;
-  align-items: stretch;
+  align-items: center;
   justify-content: space-between;
   gap: 2rem;
+  flex-wrap: wrap;
   background: #ffffff;
   border-radius: 16px;
   box-shadow: 0 6px 16px rgba(0,0,0,0.08);
   overflow: hidden;
   transition: transform 0.3s ease;
-  flex-wrap: nowrap; /* ensures side-by-side layout in all browsers */
 }
 
 .highlight-card:hover {

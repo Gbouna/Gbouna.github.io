@@ -36,7 +36,7 @@ redirect_from:
 
 /* Research Highlights */
 .highlight-section {
-  text-align: center;
+  text-align: justify;
 }
 .highlight-section h2 {
   color: #8b0000;
@@ -54,7 +54,7 @@ redirect_from:
 /* Each highlight card */
 .highlight-card {
   display: flex;
-  align-items: center;
+  align-items: justify;
   justify-content: space-between;
   gap: 2rem;
   flex-wrap: wrap;

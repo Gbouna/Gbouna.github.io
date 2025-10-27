@@ -197,10 +197,6 @@ redirect_from:
 
 
 
-
-
-
-
     <!-- Highlight 2 -->
     <div class="highlight-card">
       <div class="highlight-text">
@@ -211,14 +207,16 @@ redirect_from:
           for improved building sustainability and user satisfaction.
         </p>
         <div class="highlight-links">
-          <a href="https://doi.org/10.26599/BDMA.2025.9020003" class="highlight-btn" target="_blank">📄 Paper</a>
-          <a href="https://github.com/Gbouna/RE-TCN" class="highlight-btn" target="_blank">💻 Code</a>
+          <a href="https://doi.org/10.26599/BDMA.2025.9020003" class="highlight-btn" target="_blank"> Paper</a>
+          <a href="https://github.com/Gbouna/Non-invasive-vision-based-personal-comfort-model" class="highlight-btn" target="_blank"> Code</a>
         </div>
       </div>
       <div class="highlight-media">
         <img src="{{ site.baseurl }}/assets/images/thermal_comfort.jpg" alt="Sustainable Smart Home">
       </div>
     </div>
+
+
 
     <!-- Highlight 3 -->
     <div class="highlight-card reverse">

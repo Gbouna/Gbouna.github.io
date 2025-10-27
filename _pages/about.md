@@ -170,7 +170,14 @@ redirect_from:
 
 
     <!-- Highlight 1 -->
-    <div class="highlight-card">
+    <div class="highlight-card reverse">
+      <div class="highlight-media">
+        <!-- Example background video -->
+        <video autoplay loop muted playsinline class="bg-video">
+          <source src="{{ site.baseurl }}/assets/videos/activity_recognition.mp4" type="video/mp4">
+          Your browser does not support the video tag.
+        </video>
+      </div>
       <div class="highlight-text">
         <h3> Privacy-preserving Human Activity Recognition</h3>
         <p>
@@ -186,10 +193,13 @@ redirect_from:
           <a href="https://github.com/Gbouna/RE-TCN" class="highlight-btn" target="_blank"> Code</a>
         </div>
       </div>
-      <div class="highlight-media">
-        <img src="{{ site.baseurl }}/assets/images/highlight1.jpg" alt="Activity Recognition">
-      </div>
     </div>
+
+
+
+
+
+
 
     <!-- Highlight 2 -->
     <div class="highlight-card">
@@ -200,6 +210,10 @@ redirect_from:
           These systems integrate occupant feedback and AI-driven control strategies 
           for improved building sustainability and user satisfaction.
         </p>
+        <div class="highlight-links">
+          <a href="https://doi.org/10.26599/BDMA.2025.9020003" class="highlight-btn" target="_blank">📄 Paper</a>
+          <a href="https://github.com/Gbouna/RE-TCN" class="highlight-btn" target="_blank">💻 Code</a>
+        </div>
       </div>
       <div class="highlight-media">
         <img src="{{ site.baseurl }}/assets/images/thermal_comfort.jpg" alt="Sustainable Smart Home">

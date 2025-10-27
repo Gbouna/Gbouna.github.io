@@ -184,9 +184,7 @@ redirect_from:
           To support safe and independent living, this research focuses on developing a 
           privacy-preserving model for understanding human activity within the home environment. 
           The proposed system performs robustly even in cluttered, unstructured real-world settings, 
-          enabling accurate activity recognition without compromising user privacy. 
-          This approach lays the foundation for a trustworthy and reliable monitoring system 
-          that addresses both the technical and ethical needs of end users.
+          enabling accurate activity recognition while preserving users' privacy. 
         </p>
         <div class="highlight-links">
           <a href="https://doi.org/10.26599/BDMA.2025.9020003" class="highlight-btn" target="_blank"> Paper</a>
@@ -234,6 +232,9 @@ redirect_from:
           using capacitive sensing. This research aims to improve telehealthcare 
           and rehabilitation support in smart environments.
         </p>
+        <div class="highlight-links">
+          <a href="https://doi.org/10.1109/JBHI.2021.3082563" class="highlight-btn" target="_blank"> Paper</a>
+        </div>
       </div>
     </div>
 

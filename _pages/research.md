@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "RESEARCH FOCUS"
+title:
 permalink: /Research/
 author_profile: true
 ---
@@ -24,6 +24,18 @@ author_profile: true
   line-height: 1.7;
 }
 
+  /* ====== Header ====== */
+.pub-header {
+  background-color: #e4e4e4;
+  padding: 2rem 1rem;
+  text-align: center;
+  font-size: 2.2rem;
+  font-weight: 700;
+  color: #111;
+  border-radius: 10px;
+  margin-bottom: 2rem;
+}
+  
 .research-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
@@ -54,6 +66,7 @@ author_profile: true
 }
 </style>
 
+<div class="pub-header"> RESEARCH FOCUS </div>
 
 <!-- ====== Intro Section ====== -->
 <div class="research-intro">

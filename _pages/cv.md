@@ -19,19 +19,25 @@ Education
   
 PROFESSIONAL EXPERIENCE
 ======
+
+* **Lecturer in AI and Data Science**: University of Hull.	June. 2025.  – Present
+
+ * Module leader for the Programming for AI and Data Science module, coordinating assessments, teaching materials, and leading a team of tutors to ensure high academic performance.
+ * Develop and deliver innovative and inclusive teaching resources that blend theory with real-world application, ensuring engagement across diverse student cohorts.
+ * Supervise postgraduate dissertation projects, supporting students through every stage.
+ * Serve as a personal tutor, offering academic and pastoral support that contributes positively to student wellbeing.
+
+
 * **Lecturer in Computing**: Ulster University (QA Higher Education).	Jan. 2025.  – Nov. 2025 
-  * Plan, prepare, teach/deliver modules and support student’s learning on a range of programmes and related subject areas.
-  * Assist the Module Leader by suggesting appropriate assessment criteria and methodology to ensure student’s learning and progression.
-  * Liaise with QAHE Internal Moderators (QAHE second markers) to ensure marking is moderated by set deadlines.
-  * Provide guidance, support and tutorship for student groups and individuals as appropriate.
-  * Build and grow relationships with partnership organisations.
-  * Carry out administration duties as required.	
+  * Teach modules and support students’ learning on computer science-related subjects.
+  * Assist the Module Leader by suggesting appropriate assessment criteria and methodology to ensure students’ learning and progression.
+  * Provide guidance, support and tutorship for students.
+ * Supervise postgraduate dissertation projects, supporting students through every stage.
 
 
 * **Postgraduate Teaching Assistant**: Aston University 	Oct. 2022 – Oct. 2025 
   * Assessment and Feedback: Mark assignments, exams, and projects, providing constructive feedback to support student learning and skill development.
   * Student Support: Offer one-on-one and group support to students, addressing questions, clarifying concepts, and assisting with technical challenges to ensure academic success.
-  * Curriculum Collaboration: Collaborate with module leaders to design and adapt teaching materials, ensuring effective delivery and alignment with learning objectives.
   * Mentoring Dissertation Projects: Supervise and mentor postgraduate dissertation projects, guiding students through the research process from topic selection to completion.
   * Tutorial Delivery: Led tutorials and practical sessions for several computing modules, including Software Engineering, Introduction to Artificial Intelligence, Data Mining/Understanding Data, and Machine Learning 
 

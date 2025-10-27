@@ -87,6 +87,10 @@ PROFESSIONAL SERVICE
 **Organising committee**
 * The [Third UK AI Conference 2025](https://uk-ai.org/ukai2025/)
 
+**Editor of the UK AI Proceedings in Proceedings of Machine Learning Research**
+* Proceedings [of Machine Learning Research](https://proceedings.mlr.press/v295/)
+
+
 TALKS
 ====== 
 * Guest Lecture for Deep Learning module (Level 7).

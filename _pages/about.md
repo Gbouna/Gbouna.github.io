@@ -76,7 +76,7 @@ redirect_from:
 
 /* Text Section */
 .highlight-text {
-  flex: 1 1 40%;
+  flex: 1 1 45%;
   padding: 2rem;
   text-align: left;
 }
@@ -93,7 +93,7 @@ redirect_from:
 
 /* Media Section */
 .highlight-media {
-  flex: 1 1 60%;
+  flex: 1 1 50%;
   position: relative;
   overflow: hidden;
   min-height: 250px;

@@ -94,7 +94,7 @@ redirect_from:
 
 /* Media Section */
 .highlight-media {
-  flex: 1 1 50%;
+  flex: 1 1 40%;
   position: relative;
   overflow: hidden;
   min-height: 250px;

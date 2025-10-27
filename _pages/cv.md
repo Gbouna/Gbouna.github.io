@@ -107,20 +107,23 @@ redirect_from:
   <ul>
     <li>Module leader for <em>Programming for AI and Data Science</em>, coordinating assessments and teaching materials.</li>
     <li>Develop and deliver innovative and inclusive teaching resources that bridge theory and practice.</li>
-    <li>Supervise postgraduate dissertation projects and support student wellbeing as a personal tutor.</li>
+    <li> Supervise postgraduate dissertation projects,  guiding students through the research process from topic selection to completion.</li>
+    <li> Serve as a personal tutor, offering academic and pastoral support that contributes positively to student wellbeing.</li>
   </ul>
 
   <p><strong>Lecturer in Computing</strong>, Ulster University (QA Higher Education) <em>(Jan 2025 – Nov 2025)</em></p>
   <ul>
     <li>Teach and support learning in computer science–related subjects.</li>
-    <li>Assist module leaders in assessment design and methodology.</li>
-    <li>Supervise postgraduate dissertation projects and mentor students.</li>
+    <li>Provide guidance, support and tutorship for students.</li>
+    <li> Supervise postgraduate dissertation projects,  guiding students through the research process from topic selection to completion.</li>
   </ul>
 
   <p><strong>Postgraduate Teaching Assistant</strong>, Aston University <em>(Oct 2022 – Oct 2025)</em></p>
   <ul>
-    <li>Provided assessment, feedback, and tutorial support for modules including AI, Data Mining, and Machine Learning.</li>
-    <li>Mentored postgraduate dissertation projects through all stages.</li>
+    <li> Delivered tutorials and practical sessions across computing science modules, including Software Engineering, Data Mining, and Machine Learning.</li>
+    <li>Assessed coursework, exams, and projects, providing detailed, constructive feedback to enhance student learning</li>
+    <li>Provided academic support through one-to-one and group sessions.</li>
+    <li> Supervise postgraduate dissertation projects,  guiding students through the research process from topic selection to completion.</li>
   </ul>
 
   <p><strong>Research Assistant</strong>, The Hong Kong Polytechnic University <em>(Nov 2021 – July 2022)</em></p>

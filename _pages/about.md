@@ -14,7 +14,7 @@ redirect_from:
 /* Intro Section */
 .about-intro {
   background: linear-gradient(120deg, #f7f9fb, #e6edf3);
-  padding: 2rem 1.5rem;
+  padding: 1.5rem 1.5rem;
   text-align: justify;
   border-radius: 16px;
   box-shadow: 0 4px 12px rgba(0,0,0,0.05);

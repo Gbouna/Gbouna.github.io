@@ -129,21 +129,21 @@ redirect_from:
   <p><strong>Research Assistant</strong>, The Hong Kong Polytechnic University <em>(Nov 2021 – July 2022)</em></p>
   <ul>
     <li>I worked on the project <em>Human-Centred Smart and Sustainable Building Management System.</em> The roles included:</li>
-    <li><strong>Research:</strong> Developed personalised and generalised thermal comfort models using computer vision to predict occupant thermal comfort levels.</li>
-    <li><strong>Hardware Procurement:</strong> Managed procurement of devices, evaluating options and ensuring cost-effective, timely delivery.</li>
-    <li><strong>Research Outputs:</strong> Contributed to high-quality publications addressing energy efficiency and thermal comfort for occupants.</li>
-    <li><strong>Administration:</strong> I worked alongside the PI for the overall management of the research group.</li>
-    <li><strong>Research group website:</strong> I designed and managed the <a href="https://ibeems-lee.com/" target="_blank">research group’s website</a>.</li>
+    <li>Research: Developed personalised and generalised thermal comfort models using computer vision to predict occupant thermal comfort levels.</li>
+    <li>Hardware Procurement: Managed procurement of devices, evaluating options and ensuring cost-effective, timely delivery.</li>
+    <li>Research Outputs: Contributed to high-quality publications addressing energy efficiency and thermal comfort for occupants.</li>
+    <li>Administration: I worked alongside the PI for the overall management of the research group.</li>
+    <li>Research group website I designed and managed the <a href="https://ibeems-lee.com/" target="_blank">research group’s website</a>.</li>
   </ul>
 
   <p><strong>Research Assistant</strong>, Westlake University <em>(June 2021 – Nov 2021)</em></p>
   <ul>
     <li>I worked on the project <em>Ecosystem Monitoring Project</em> at Westlake University. My roles included:</li>
     <li><strong>Hardware Development:</strong> I designed and developed electronic hardware components for an autonomous camera system to monitor agrobiodiversity.</li>
-    <li><strong>Procurement Management:</strong> I managed the procurement of devices, coordinating with vendors to ensure cost-effective and timely delivery.</li>
-    <li><strong>Field Testing Support:</strong> I collaborated with field testers to integrate and validate the system in real-world environments.</li>
-    <li><strong>Team Collaboration:</strong> I worked with multidisciplinary teams, including software designers and AutoCAD specialists, to deliver a comprehensive solution.</li>
-    <li><strong>Research Contributions:</strong> Contributed to research publication on Embedded vision cameras for terrestrial biodiversity monitoring.</li>
+    <li>Procurement Management: I managed the procurement of devices, coordinating with vendors to ensure cost-effective and timely delivery.</li>
+    <li>Field Testing Support: I collaborated with field testers to integrate and validate the system in real-world environments.</li>
+    <li>Team Collaboration: I worked with multidisciplinary teams, including software designers and AutoCAD specialists, to deliver a comprehensive solution.</li>
+    <li>Research Contributions: Contributed to research publication on Embedded vision cameras for terrestrial biodiversity monitoring.</li>
   </ul>
 </div>
 

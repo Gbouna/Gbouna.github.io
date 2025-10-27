@@ -53,31 +53,48 @@ redirect_from:
   gap: 3rem;
 }
 
-/* Each highlight card */
+/* The highlight card container */
 .highlight-card {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 2rem;
-  flex-wrap: wrap;
   background: #ffffff;
   border-radius: 16px;
   box-shadow: 0 6px 16px rgba(0,0,0,0.08);
   overflow: hidden;
   transition: transform 0.3s ease;
+  padding: 1.5rem;
 }
+
 .highlight-card:hover {
   transform: translateY(-5px);
 }
 
-.highlight-card.reverse {
+/* Title now spans across full card width */
+.highlight-card h3 {
+  color: #8b0000;
+  font-size: 1.4rem;
+  font-weight: 700;
+  margin-bottom: 1.5rem;
+  text-align: center; /* center the title across both columns */
+  width: 100%;
+}
+
+/* Inner flex section for text + media */
+.highlight-inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 2rem;
+  flex-wrap: wrap;
+}
+
+/* Reverse layout if needed */
+.highlight-card.reverse .highlight-inner {
   flex-direction: row-reverse;
 }
 
 /* Text Section */
 .highlight-text {
   flex: 1 1 45%;
-  padding: 2rem;
+  padding: 1rem;
   text-align: left;
 }
 .highlight-text h3 {
@@ -96,9 +113,10 @@ redirect_from:
   flex: 1 1 50%;
   position: relative;
   overflow: hidden;
+  border-radius: 12px;
   min-height: 250px;
-  border-radius: 0 16px 16px 0;
 }
+  
 .highlight-media img {
   width: 100%;
   height: 100%;
@@ -173,6 +191,7 @@ redirect_from:
 
     <!-- Highlight 1 -->
     <div class="highlight-card reverse">
+      <h3> Privacy-preserving Human Activity Recognition</h3>
       <div class="highlight-media">
         <!-- Example background video -->
         <video autoplay loop muted playsinline class="bg-video">
@@ -181,7 +200,6 @@ redirect_from:
         </video>
       </div>
       <div class="highlight-text">
-        <h3> Privacy-preserving Human Activity Recognition</h3>
         <p>
           To support safe and independent living, this research focuses on developing a 
           privacy-preserving model for understanding human activity within the home environment. 
@@ -199,8 +217,8 @@ redirect_from:
 
     <!-- Highlight 2 -->
     <div class="highlight-card">
+      <h3> Sustainable & Adaptive Smart Homes</h3>
       <div class="highlight-text">
-        <h3> Sustainable & Adaptive Smart Homes</h3>
         <p>
           Designing vision-based solutions that dynamically manage energy and comfort. 
           These systems integrate occupant feedback and AI-driven control strategies 
@@ -220,6 +238,7 @@ redirect_from:
 
     <!-- Highlight 3 -->
     <div class="highlight-card reverse">
+      <h3> Human–Robot Collaboration in Healthcare</h3>
       <div class="highlight-media">
         <!-- Example background video -->
         <video autoplay loop muted playsinline class="bg-video">
@@ -228,7 +247,6 @@ redirect_from:
         </video>
       </div>
       <div class="highlight-text">
-        <h3> Human–Robot Collaboration in Healthcare</h3>
         <p>
           Exploring safe and intuitive interaction methods between humans and assistive robots 
           using capacitive sensing. This research aims to improve telehealthcare 

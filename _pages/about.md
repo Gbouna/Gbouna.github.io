@@ -185,7 +185,7 @@ redirect_from:
         <p>
           To support safe and independent living, this research focuses on developing a 
           privacy-preserving model for understanding human activity within the home environment. 
-          The proposed system performs robustly even in cluttered, unstructured real-world settings, 
+          The proposed system performs robustly in cluttered, unstructured real-world environments, 
           enabling accurate activity recognition while preserving users' privacy. 
         </p>
         <div class="highlight-links">

@@ -13,7 +13,7 @@ redirect_from:
 <style>
 /* Intro Section */
 .about-intro {
-  background: linear-gradient(120deg, #f7f9fb, #e6edf3);
+  background: linear-gradient(60deg, #f7f9fb, #e6edf3);
   padding: 3rem 1.5rem;
   text-align: justify;
   border-radius: 16px;

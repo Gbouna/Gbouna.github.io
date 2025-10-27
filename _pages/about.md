@@ -13,8 +13,8 @@ redirect_from:
 <style>
 /* Intro Section */
 .about-intro {
-  background: linear-gradient(60deg, #f7f9fb, #e6edf3);
-  padding: 3rem 1.5rem;
+  background: linear-gradient(120deg, #f7f9fb, #e6edf3);
+  padding: 2rem 1.5rem;
   text-align: justify;
   border-radius: 16px;
   box-shadow: 0 4px 12px rgba(0,0,0,0.05);
@@ -25,6 +25,7 @@ redirect_from:
   font-size: 2rem;
   font-weight: 600;
   margin-bottom: 1rem;
+  text-align: center;
 }
 .about-intro p {
   max-width: 800px;
@@ -32,6 +33,7 @@ redirect_from:
   font-size: 1.05rem;
   color: #333;
   line-height: 1.7;
+  text-align: justify;
 }
 
 /* Research Highlights */
@@ -91,7 +93,7 @@ redirect_from:
 
 /* Media Section */
 .highlight-media {
-  flex: 1 1 45%;
+  flex: 1 1 60%;
   position: relative;
   overflow: hidden;
   min-height: 250px;

@@ -76,7 +76,7 @@ redirect_from:
 .highlight-text {
   flex: 1 1 45%;
   padding: 2rem;
-  text-align: justify;
+  text-align: left;
 }
 .highlight-text h3 {
   color: #8b0000;

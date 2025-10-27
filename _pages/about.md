@@ -183,7 +183,7 @@ redirect_from:
       <div class="highlight-text">
         <h3> Privacy-preserving Human Activity Recognition</h3>
         <p>
-          To support safe and independent living, this research focuses on developing a privacy-preserving model for recognising human activity within the home environment. The proposed system performs robustly in cluttered, unstructured real-world environments, enabling accurate activity recognition while preserving users' privacy.
+          To support safe and independent living, this research focuses on developing a privacy-preserving model for recognising human activity within the home environment.
         </p>
         <div class="highlight-links">
           <a href="https://doi.org/10.26599/BDMA.2025.9020003" class="highlight-btn" target="_blank"> Paper</a>

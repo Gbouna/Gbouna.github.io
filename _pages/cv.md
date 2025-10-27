@@ -23,39 +23,6 @@ redirect_from:
   font-size: 1rem;
 }
 
-.cv-section {
-  margin-bottom: 2.5rem;
-  border-left: 4px solid #8b0000;
-  padding-left: 1rem;
-}
-
-.cv-section h2 {
-  color: #8b0000;
-  font-size: 1.4rem;
-  margin-bottom: 1rem;
-  font-weight: 700;
-}
-
-.cv-section ul {
-  list-style: none;
-  padding-left: 0;
-  margin: 0;
-}
-
-.cv-section li {
-  margin-bottom: 0.8rem;
-}
-
-.cv-section li strong {
-  color: #111;
-}
-
-.cv-section em {
-  color: #555;
-  font-style: italic;
-}
-
-/* Download Button */
 .download-btn {
   display: inline-block;
   background-color: #8b0000;
@@ -67,23 +34,71 @@ redirect_from:
   transition: background-color 0.3s ease, transform 0.2s ease;
   margin-bottom: 2rem;
 }
-
 .download-btn:hover {
   background-color: #a01919;
   transform: translateY(-2px);
 }
-  
-/* ====== Header ====== */
-.pub-header {
-  background-color: #e4e4e4;
-  padding: 1rem 1rem;
-  text-align: center;
-  font-size: 2.2rem;
-  font-weight: 700;
-  color: #111;
-  border-radius: 10px;
-  margin-bottom: 2rem;
+
+/* Section headers */
+.cv-section {
+  margin-bottom: 3rem;
 }
+.cv-section h2 {
+  color: #8b0000;
+  font-size: 1.4rem;
+  font-weight: 700;
+  border-bottom: 2px solid #eee;
+  padding-bottom: 0.4rem;
+  margin-bottom: 1.5rem;
+}
+
+/* Timeline layout */
+.timeline {
+  position: relative;
+  margin: 0;
+  padding-left: 2rem;
+  border-left: 3px solid #8b0000;
+}
+.timeline-item {
+  position: relative;
+  margin-bottom: 1.8rem;
+}
+.timeline-item::before {
+  content: '';
+  position: absolute;
+  left: -10px;
+  top: 0.5rem;
+  width: 14px;
+  height: 14px;
+  background-color: #8b0000;
+  border-radius: 50%;
+}
+.timeline-date {
+  color: #777;
+  font-size: 0.9rem;
+  font-weight: 500;
+}
+.timeline-role {
+  font-weight: 600;
+  color: #111;
+  margin-bottom: 0.3rem;
+}
+.timeline-org {
+  font-style: italic;
+  color: #444;
+  margin-bottom: 0.5rem;
+}
+
+/* Awards and others */
+.cv-section ul {
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
+}
+.cv-section li {
+  margin-bottom: 0.8rem;
+}
+
 /* Print-friendly */
 @media print {
   .download-btn { display: none; }
@@ -96,79 +111,139 @@ redirect_from:
 
 ---
 
-<div class="pub-header"> CV</div>
-
 <div class="cv-container">
 
-<a href="{{ site.baseurl }}/assets/files/CV_Gbouna.pdf" class="download-btn" download>📄 Download Full CV (PDF)</a>
+<a href="{{ site.baseurl }}/assets/files/CV_Gbouna.pdf" class="download-btn" download> Download Full CV (PDF)</a>
 
+<!-- ======================= -->
+<!-- Education -->
+<!-- ======================= -->
 <div class="cv-section">
   <h2>Education</h2>
-  <ul>
-    <li><strong>Aston University</strong> — PhD in Computer Science <em>(Oct 2022 – Sept 2025)</em></li>
-    <li><strong>Aston University</strong> — Postgraduate Certificate in Learning and Teaching in Higher Education (PGCert) <em>(Oct 2023 – Nov 2024)</em></li>
-    <li><strong>Aston University</strong> — Introduction to Learning and Teaching Practice in Higher Education (ILTP) <em>(Mar 2023 – Sept 2023)</em></li>
-    <li><strong>Zhejiang University</strong> — Master of Engineering in Mechatronic Engineering <em>(2018 – 2021)</em></li>
-    <li><strong>Liaoning University of Technology</strong> — Bachelor of Engineering in Electronics Information Engineering <em>(2014 – 2018)</em></li>
-  </ul>
+  <div class="timeline">
+
+    <div class="timeline-item">
+      <div class="timeline-role">PhD in Computer Science</div>
+      <div class="timeline-org">Aston University</div>
+      <div class="timeline-date">Oct 2022 – Sept 2025</div>
+    </div>
+
+    <div class="timeline-item">
+      <div class="timeline-role">Postgraduate Certificate in Learning and Teaching in Higher Education (PGCert)</div>
+      <div class="timeline-org">Aston University</div>
+      <div class="timeline-date">Oct 2023 – Nov 2024</div>
+    </div>
+
+    <div class="timeline-item">
+      <div class="timeline-role">Introduction to Learning and Teaching Practice in Higher Education (ILTP)</div>
+      <div class="timeline-org">Aston University</div>
+      <div class="timeline-date">Mar 2023 – Sept 2023</div>
+    </div>
+
+    <div class="timeline-item">
+      <div class="timeline-role">Master of Engineering in Mechatronic Engineering</div>
+      <div class="timeline-org">Zhejiang University</div>
+      <div class="timeline-date">2018 – 2021</div>
+    </div>
+
+    <div class="timeline-item">
+      <div class="timeline-role">Bachelor of Engineering in Electronics Information Engineering</div>
+      <div class="timeline-org">Liaoning University of Technology</div>
+      <div class="timeline-date">2014 – 2018</div>
+    </div>
+
+  </div>
 </div>
 
+<!-- ======================= -->
+<!-- Experience -->
+<!-- ======================= -->
 <div class="cv-section">
   <h2>Professional Experience</h2>
+  <div class="timeline">
 
-  <p><strong>Lecturer in AI and Data Science</strong>, University of Hull <em>(June 2025 – Present)</em></p>
-  <ul>
-    <li>Module leader for <em>Programming for AI and Data Science</em>, coordinating assessments and teaching materials.</li>
-    <li>Develop and deliver innovative and inclusive teaching resources that bridge theory and practice.</li>
-    <li>Supervise postgraduate dissertation projects and support student wellbeing as a personal tutor.</li>
-  </ul>
+    <div class="timeline-item">
+      <div class="timeline-role">Lecturer in AI and Data Science</div>
+      <div class="timeline-org">University of Hull</div>
+      <div class="timeline-date">June 2025 – Present</div>
+      <ul>
+        <li>Module leader for <em>Programming for AI and Data Science</em>, coordinating assessments and teaching materials.</li>
+        <li>Develop inclusive and engaging teaching resources that bridge theory with practice.</li>
+        <li>Supervise postgraduate dissertation projects and support student wellbeing.</li>
+      </ul>
+    </div>
 
-  <p><strong>Lecturer in Computing</strong>, Ulster University (QA Higher Education) <em>(Jan 2025 – Nov 2025)</em></p>
-  <ul>
-    <li>Teach and support learning in computer science–related subjects.</li>
-    <li>Assist module leaders in assessment design and methodology.</li>
-    <li>Supervise postgraduate dissertation projects and mentor students.</li>
-  </ul>
+    <div class="timeline-item">
+      <div class="timeline-role">Lecturer in Computing</div>
+      <div class="timeline-org">Ulster University (QA Higher Education)</div>
+      <div class="timeline-date">Jan 2025 – Nov 2025</div>
+      <ul>
+        <li>Taught modules and provided guidance on computer science–related subjects.</li>
+        <li>Contributed to assessment design and supervision of postgraduate projects.</li>
+      </ul>
+    </div>
 
-  <p><strong>Postgraduate Teaching Assistant</strong>, Aston University <em>(Oct 2022 – Oct 2025)</em></p>
-  <ul>
-    <li>Provided assessment, feedback, and tutorial support for modules including AI, Data Mining, and Machine Learning.</li>
-    <li>Mentored postgraduate dissertation projects through all stages.</li>
-  </ul>
+    <div class="timeline-item">
+      <div class="timeline-role">Postgraduate Teaching Assistant</div>
+      <div class="timeline-org">Aston University</div>
+      <div class="timeline-date">Oct 2022 – Oct 2025</div>
+      <ul>
+        <li>Delivered tutorials in AI, Data Mining, and Machine Learning modules.</li>
+        <li>Assessed assignments and supervised dissertation projects.</li>
+      </ul>
+    </div>
 
-  <p><strong>Research Assistant</strong>, The Hong Kong Polytechnic University <em>(Nov 2021 – July 2022)</em></p>
-  <ul>
-    <li>Developed personalised thermal comfort models using computer vision.</li>
-    <li>Managed device procurement and research group administration.</li>
-    <li>Designed and managed the <a href="https://ibeems-lee.com/">research group website</a>.</li>
-  </ul>
+    <div class="timeline-item">
+      <div class="timeline-role">Research Assistant</div>
+      <div class="timeline-org">The Hong Kong Polytechnic University</div>
+      <div class="timeline-date">Nov 2021 – July 2022</div>
+      <ul>
+        <li>Developed vision-based models for occupant thermal comfort prediction.</li>
+        <li>Managed hardware procurement and research administration.</li>
+        <li>Designed and maintained the <a href="https://ibeems-lee.com/">IBEEMS research website</a>.</li>
+      </ul>
+    </div>
 
-  <p><strong>Research Assistant</strong>, Westlake University <em>(June 2021 – Nov 2021)</em></p>
-  <ul>
-    <li>Developed electronic hardware for autonomous biodiversity monitoring systems.</li>
-    <li>Collaborated with interdisciplinary teams and contributed to embedded vision publications.</li>
-  </ul>
+    <div class="timeline-item">
+      <div class="timeline-role">Research Assistant</div>
+      <div class="timeline-org">Westlake University</div>
+      <div class="timeline-date">June 2021 – Nov 2021</div>
+      <ul>
+        <li>Designed embedded systems for biodiversity monitoring.</li>
+        <li>Collaborated on interdisciplinary research and hardware development.</li>
+      </ul>
+    </div>
+
+  </div>
 </div>
 
+<!-- ======================= -->
+<!-- Certifications -->
+<!-- ======================= -->
 <div class="cv-section">
   <h2>Professional Certification</h2>
   <ul>
-    <li>Fellowship of the Higher Education Academy (FHEA), AdvanceHE — <em>Nov 2024</em></li>
+    <li>Fellow of the Higher Education Academy (FHEA), AdvanceHE — <em>Nov 2024</em></li>
     <li>Associate Fellow of the Higher Education Academy (AFHEA), AdvanceHE — <em>Sept 2023</em></li>
   </ul>
 </div>
 
+<!-- ======================= -->
+<!-- Awards -->
+<!-- ======================= -->
 <div class="cv-section">
   <h2>Awards</h2>
   <ul>
-    <li>Best Paper Runner-Up — International Conference on AI in Healthcare, 2024</li>
-    <li>Best Paper Award — 22nd International Conference on Construction Applications of Virtual Reality, 2022</li>
-    <li>UKRI PhD Studentship — Fully funded doctoral research in Human Activity Analysis in Smart Environments, 2022–2025</li>
-    <li>F.C.T Scholarship Board — Ministerial Special Scholarship Award of Excellence, 2018</li>
-    <li>Multiple Academic Excellence Awards — Liaoning University of Technology (2014–2017)</li>
+    <li> Best Paper Runner-Up — International Conference on AI in Healthcare, 2024</li>
+    <li> Best Paper Award — 22nd Int’l Conference on Construction Applications of Virtual Reality, 2022</li>
+    <li> UKRI PhD Studentship — Fully funded doctoral research, 2022–2025</li>
+    <li> F.C.T Scholarship Board — Ministerial Special Scholarship Award of Excellence, 2018</li>
   </ul>
 </div>
 
+<!-- ======================= -->
+<!-- Service -->
+<!-- ======================= -->
 <div class="cv-section">
   <h2>Professional Service</h2>
   <p><strong>Peer Reviewer</strong></p>
@@ -176,7 +251,7 @@ redirect_from:
     <li>International Conference on AI in Healthcare (AIiH 2025)</li>
     <li>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2024–2025)</li>
     <li>Proceedings of Machine Learning Research (PMLR)</li>
-    <li>IEEE International Symposium on Industrial Electronics (ISIE 2024)</li>
+    <li>IEEE Int’l Symposium on Industrial Electronics (ISIE 2024)</li>
   </ul>
 
   <p><strong>Organising Committee</strong></p>
@@ -190,6 +265,9 @@ redirect_from:
   </ul>
 </div>
 
+<!-- ======================= -->
+<!-- Publications -->
+<!-- ======================= -->
 <div class="cv-section">
   <h2>Publications</h2>
   <p>Visit the <a href="{{ site.baseurl }}/publications/">Publications</a> page for an up-to-date list of my publications.</p>

@@ -181,18 +181,18 @@ redirect_from:
 
   <p><strong>Organising Committee</strong></p>
   <ul>
-    <li><a href="https://uk-ai.org/ukai2025/">The Third UK AI Conference 2025</a></li>
+    <li><a href="https://uk-ai.org/ukai2025/"  target="_blank">The Third UK AI Conference 2025</a></li>
   </ul>
 
   <p><strong>Editorial Role</strong></p>
   <ul>
-    <li>Editor, UK AI Proceedings in <a href="https://proceedings.mlr.press/v295/">Proceedings of Machine Learning Research</a></li>
+    <li>Editor, UK AI Proceedings in <a href="https://proceedings.mlr.press/v295/"  target="_blank">Proceedings of Machine Learning Research</a></li>
   </ul>
 </div>
 
 <div class="cv-section">
   <h2>Publications</h2>
-  <p>Visit the <a href="{{ site.baseurl }}/publications/">Publications</a> page for an up-to-date list of my publications.</p>
+  <p>Visit the <a href="{{ site.baseurl }}/publications/"  target="_blank">Publications</a> page for an up-to-date list of my publications.</p>
 </div>
 
 </div>

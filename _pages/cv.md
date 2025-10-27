@@ -72,7 +72,18 @@ redirect_from:
   background-color: #a01919;
   transform: translateY(-2px);
 }
-
+  
+/* ====== Header ====== */
+.pub-header {
+  background-color: #e4e4e4;
+  padding: 1rem 1rem;
+  text-align: center;
+  font-size: 2.2rem;
+  font-weight: 700;
+  color: #111;
+  border-radius: 10px;
+  margin-bottom: 2rem;
+}
 /* Print-friendly */
 @media print {
   .download-btn { display: none; }
@@ -84,6 +95,8 @@ redirect_from:
 </style>
 
 ---
+
+<div class="pub-header"> CV</div>
 
 <div class="cv-container">
 

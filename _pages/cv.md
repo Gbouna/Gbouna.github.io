@@ -128,15 +128,22 @@ redirect_from:
 
   <p><strong>Research Assistant</strong>, The Hong Kong Polytechnic University <em>(Nov 2021 – July 2022)</em></p>
   <ul>
-    <li>Developed personalised thermal comfort models using computer vision.</li>
-    <li>Managed device procurement and research group administration.</li>
-    <li>Designed and managed the <a href="https://ibeems-lee.com/">research group website</a>.</li>
+    <li>I worked on the project <em>Human-Centred Smart and Sustainable Building Management System.</em> The roles included:</li>
+    <li><strong>Research:</strong> Developed personalised and generalised thermal comfort models using computer vision to predict occupant thermal comfort levels.</li>
+    <li><strong>Hardware Procurement:</strong> Managed procurement of devices, evaluating options and ensuring cost-effective, timely delivery.</li>
+    <li><strong>Research Outputs:</strong> Contributed to high-quality publications addressing energy efficiency and thermal comfort for occupants.</li>
+    <li><strong>Administration:</strong> I worked alongside the PI for the overall management of the research group.</li>
+    <li><strong>Research group website:</strong> I designed and managed the <a href="https://ibeems-lee.com/" target="_blank">research group’s website</a>.</li>
   </ul>
 
   <p><strong>Research Assistant</strong>, Westlake University <em>(June 2021 – Nov 2021)</em></p>
   <ul>
-    <li>Developed electronic hardware for autonomous biodiversity monitoring systems.</li>
-    <li>Collaborated with interdisciplinary teams and contributed to embedded vision publications.</li>
+    <li>I worked on the project <em>Ecosystem Monitoring Project</em> at Westlake University. My roles included:</li>
+    <li><strong>Hardware Development:</strong> I designed and developed electronic hardware components for an autonomous camera system to monitor agrobiodiversity.</li>
+    <li><strong>Procurement Management:</strong> I managed the procurement of devices, coordinating with vendors to ensure cost-effective and timely delivery.</li>
+    <li><strong>Field Testing Support:</strong> I collaborated with field testers to integrate and validate the system in real-world environments.</li>
+    <li><strong>Team Collaboration:</strong> I worked with multidisciplinary teams, including software designers and AutoCAD specialists, to deliver a comprehensive solution.</li>
+    <li><strong>Research Contributions:</strong> Contributed to research publication on Embedded vision cameras for terrestrial biodiversity monitoring.</li>
   </ul>
 </div>
 
@@ -151,11 +158,14 @@ redirect_from:
 <div class="cv-section">
   <h2>Awards</h2>
   <ul>
-    <li>Best Paper Runner-Up — International Conference on AI in Healthcare, 2024</li>
-    <li>Best Paper Award — 22nd International Conference on Construction Applications of Virtual Reality, 2022</li>
-    <li>UKRI PhD Studentship — Fully funded doctoral research in Human Activity Analysis in Smart Environments, 2022–2025</li>
-    <li>F.C.T Scholarship Board — Ministerial Special Scholarship Award of Excellence, 2018</li>
-    <li>Multiple Academic Excellence Awards — Liaoning University of Technology (2014–2017)</li>
+    <li>Best Paper Runner-Up: International Conference on AI in Healthcare — 2024</li>
+    <li>Best Paper Award: 22nd International Conference on Construction Applications of Virtual Reality — 2022</li>
+    <li>UK Research and Innovation (UKRI) PhD Studentship: Fully funded doctoral research in Human activity analysis in smart environments, awarded by UKRI — 2022–2025</li>
+    <li>F.C.T Scholarship Board: Ministerial Special Scholarship Award — Award of Excellence, 2018</li>
+    <li>Liaoning University of Technology: Best Student in Electronic and Information Engineering Department — 2016/2017 Academic Year</li>
+    <li>Liaoning University of Technology: Second Best Student in Electronic and Information Engineering Department — 2015/2016 Academic Year</li>
+    <li>Liaoning University of Technology: Second Best Student in Electronic and Information Engineering Department — 2014/2015 Academic Year</li>
+    <li>F.C.T Scholarship Board: Best Indigene Student in West African Senior School Certificate Examination — 2013</li>
   </ul>
 </div>
 

@@ -108,6 +108,26 @@ redirect_from:
   object-fit: cover;
 }
 
+
+.highlight-links {
+  margin-top: 1rem;
+}
+.highlight-btn {
+  display: inline-block;
+  background-color: #8b0000;
+  color: white;
+  text-decoration: none;
+  padding: 0.45rem 0.9rem;
+  margin-right: 0.5rem;
+  border-radius: 8px;
+  font-size: 0.9rem;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+.highlight-btn:hover {
+  background-color: #a01919;
+  transform: translateY(-2px);
+}
+  
 /* Responsive */
 @media (max-width: 900px) {
   .highlight-card, .highlight-card.reverse {

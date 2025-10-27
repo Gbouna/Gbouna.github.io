@@ -139,7 +139,7 @@ redirect_from:
   <p><strong>Research Assistant</strong>, Westlake University <em>(June 2021 – Nov 2021)</em></p>
   <ul>
     <li>I worked on the project <em>Ecosystem Monitoring Project</em> at Westlake University. My roles included:</li>
-    <li><strong>Hardware Development:</strong> I designed and developed electronic hardware components for an autonomous camera system to monitor agrobiodiversity.</li>
+    <li>Hardware Development: I designed and developed electronic hardware components for an autonomous camera system to monitor agrobiodiversity.</li>
     <li>Procurement Management: I managed the procurement of devices, coordinating with vendors to ensure cost-effective and timely delivery.</li>
     <li>Field Testing Support: I collaborated with field testers to integrate and validate the system in real-world environments.</li>
     <li>Team Collaboration: I worked with multidisciplinary teams, including software designers and AutoCAD specialists, to deliver a comprehensive solution.</li>

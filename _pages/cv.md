@@ -87,7 +87,7 @@ redirect_from:
 
 <div class="cv-container">
 
-<a href="{{ site.baseurl }}/assets/files/CV_Gbouna.pdf" class="download-btn" download>📄 Download Full CV (PDF)</a>
+<a href="{{ site.baseurl }}/assets/files/CV_Gbouna.pdf" class="download-btn" download> Download Full CV (PDF)</a>
 
 <div class="cv-section">
   <h2>Education</h2>

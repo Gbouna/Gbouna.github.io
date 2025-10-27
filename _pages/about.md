@@ -76,7 +76,7 @@ redirect_from:
 
 /* Text Section */
 .highlight-text {
-  flex: 1 1 45%;
+  flex: 1 1 40%;
   padding: 2rem;
   text-align: left;
 }

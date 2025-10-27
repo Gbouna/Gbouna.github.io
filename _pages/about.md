@@ -148,25 +148,28 @@ redirect_from:
   <h2> Research Highlights</h2>
   <div class="highlight-grid">
 
+
     <!-- Highlight 1 -->
-    <div class="highlight-card reverse">
-      <div class="highlight-media">
-        <!-- Example background video -->
-        <video autoplay loop muted playsinline class="bg-video">
-          <source src="{{ site.baseurl }}/assets/videos/activity_recognition.mp4" type="video/mp4">
-          Your browser does not support the video tag.
-        </video>
-      </div>
+    <div class="highlight-card">
       <div class="highlight-text">
         <h3> Privacy-preserving Human Activity Recognition</h3>
         <p>
-          Developing deep learning models for fine-grained recognition of daily activities 
-          while preserving user privacy through on-device processing. 
-          The goal is to support ageing in place through context-aware, human-centred systems.
+          To support safe and independent living, this research focuses on developing a 
+          privacy-preserving model for understanding human activity within the home environment. 
+          The proposed system performs robustly even in cluttered, unstructured real-world settings, 
+          enabling accurate activity recognition without compromising user privacy. 
+          This approach lays the foundation for a trustworthy and reliable monitoring system 
+          that addresses both the technical and ethical needs of end users.
         </p>
+        <div class="highlight-links">
+          <a href="https://doi.org/10.26599/BDMA.2025.9020003" class="highlight-btn" target="_blank"> Paper</a>
+          <a href="https://github.com/Gbouna/RE-TCN" class="highlight-btn" target="_blank"> Code</a>
+        </div>
+      </div>
+      <div class="highlight-media">
+        <img src="{{ site.baseurl }}/assets/images/highlight1.jpg" alt="Activity Recognition">
       </div>
     </div>
-
 
     <!-- Highlight 2 -->
     <div class="highlight-card">

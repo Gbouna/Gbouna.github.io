@@ -207,7 +207,7 @@ redirect_from:
           for improved building sustainability and user satisfaction.
         </p>
         <div class="highlight-links">
-          <a href="https://doi.org/10.26599/BDMA.2025.9020003" class="highlight-btn" target="_blank"> Paper</a>
+          <a href="https://doi.org/10.1016/j.autcon.2024.105811" class="highlight-btn" target="_blank"> Paper</a>
           <a href="https://github.com/Gbouna/Non-invasive-vision-based-personal-comfort-model" class="highlight-btn" target="_blank"> Code</a>
         </div>
       </div>

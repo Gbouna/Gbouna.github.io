@@ -36,7 +36,7 @@ redirect_from:
 
 /* Research Highlights */
 .highlight-section {
-  text-align: justify;
+  text-align: center;
 }
 .highlight-section h2 {
   color: #8b0000;
@@ -54,7 +54,7 @@ redirect_from:
 /* Each highlight card */
 .highlight-card {
   display: flex;
-  align-items: justify;
+  align-items: center;
   justify-content: space-between;
   gap: 2rem;
   flex-wrap: wrap;
@@ -76,7 +76,7 @@ redirect_from:
 .highlight-text {
   flex: 1 1 45%;
   padding: 2rem;
-  text-align: left;
+  text-align: justify;
 }
 .highlight-text h3 {
   color: #8b0000;

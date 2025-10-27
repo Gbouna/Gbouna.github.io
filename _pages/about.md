@@ -110,7 +110,7 @@ redirect_from:
 
 /* Media Section */
 .highlight-media {
-  flex: 1 1 50%;
+  flex: 1 1 45%;
   position: relative;
   overflow: hidden;
   border-radius: 12px;

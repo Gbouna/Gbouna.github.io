@@ -8,35 +8,16 @@ author_profile: true
 {% include base_path %}
 
 <style>
-.news-item {
-  display: flex;
-  align-items: center;
-  gap: 40px;
-  margin-bottom: 60px;
-  flex-wrap: wrap;
-}
-
-.news-item img {
-  width: 380px;
-  height: auto;
-  border-radius: 12px;
-  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
-}
-
-.news-text {
-  flex: 1;
-  min-width: 300px;
-}
-
-.news-text h2 {
-  font-size: 1.4em;
-  color: #7b1b1b;
-  margin-bottom: 10px;
-}
-
-.news-text p {
-  line-height: 1.6;
-  color: #333;
+/* ====== Full-width News Section ====== */
+.news-section {
+  position: relative;
+  left: 50%;
+  right: 50%;
+  width: 100vw;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  background: #ffffff;
+  padding: 2.5rem 0;
 }
 
 /* ====== Header ====== */
@@ -51,6 +32,63 @@ author_profile: true
   margin-bottom: 2rem;
 }
 
+/* ====== News Container ====== */
+.news-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 3rem;
+  width: 100%;
+  max-width: 1400px; /* Adjust for desired readable width */
+  margin: 0 auto;
+  padding: 0 2rem;
+}
+
+/* ====== Each News Item ====== */
+.news-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 40px;
+  flex-wrap: wrap;
+  background: #ffffff;
+  border-radius: 16px;
+  box-shadow: 0 6px 16px rgba(0,0,0,0.08);
+  padding: 1.5rem;
+  transition: transform 0.3s ease;
+}
+
+.news-item:hover {
+  transform: translateY(-5px);
+}
+
+/* ====== Image Section ====== */
+.news-item img {
+  width: 420px;
+  height: auto;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+  flex: 0 0 auto;
+}
+
+/* ====== Text Section ====== */
+.news-text {
+  flex: 1 1 50%;
+  min-width: 300px;
+}
+
+.news-text h2 {
+  font-size: 1.4em;
+  color: #7b1b1b;
+  margin-bottom: 10px;
+}
+
+.news-text p {
+  line-height: 1.6;
+  color: #333;
+  font-size: 1rem;
+}
+
+/* ====== Link Buttons ====== */
 .link-group {
   margin-top: 10px;
 }
@@ -70,12 +108,32 @@ author_profile: true
   background-color: #5a1111;
 }
 
+/* ====== Divider ====== */
 hr {
   border: 0;
   border-top: 1px solid #e0e0e0;
   margin: 50px 0;
 }
+
+/* ====== Responsive Layout ====== */
+@media (max-width: 900px) {
+  .news-item {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .news-item img {
+    width: 100%;
+    max-width: 500px;
+  }
+
+  .news-text {
+    text-align: center;
+  }
+}
 </style>
+
+
 
 <div class="pub-header"> LATEST NEWS</div>
 

@@ -10,12 +10,7 @@ author_profile: true
 <style>
 /* ====== Full-width News Section ====== */
 .news-section {
-  position: relative;
-  left: 50%;
-  right: 50%;
-  width: 100vw;
-  margin-left: -50vw;
-  margin-right: -50vw;
+  width: 100%;
   background: #ffffff;
   padding: 2.5rem 0;
 }
@@ -37,10 +32,10 @@ author_profile: true
   display: flex;
   flex-direction: column;
   gap: 3rem;
-  width: 100%;
-  max-width: 1500px; /* Adjust for desired readable width */
+  width: min(95%, 1800px); /* responsive max width that adapts */
   margin: 0 auto;
   padding: 0 2rem;
+  box-sizing: border-box; /* ensures consistent padding across browsers */
 }
 
 /* ====== Each News Item ====== */

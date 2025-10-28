@@ -47,7 +47,7 @@ redirect_from:
   margin-left: -50vw;
   margin-right: -50vw;
   background: #ffffff;
-  padding: 3rem 0;
+  padding: 2.5rem 0;
   text-align: center;
 }
 
@@ -66,6 +66,7 @@ redirect_from:
   width: 100%;
   max-width: 1000px; /* sets how wide the content area can go */
   margin: 0 auto; /* centers inside full-width section */
+  padding: 0 2rem;
 }
 
 /* Each highlight card */
@@ -73,14 +74,13 @@ redirect_from:
   display: flex;
   align-items: center;
   justify-content: space-between;
-  gap: 2rem;
+  gap: 40px;
   flex-wrap: wrap;
   background: #ffffff;
   border-radius: 16px;
   box-shadow: 0 6px 16px rgba(0,0,0,0.08);
-  overflow: hidden;
+  padding: 1.5rem;
   transition: transform 0.3s ease;
-  width: 100%;
 }
 
 .highlight-card:hover {

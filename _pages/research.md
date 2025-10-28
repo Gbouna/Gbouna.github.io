@@ -88,7 +88,7 @@ author_profile: true
 <div class="research-grid">
 
   <div class="research-card">
-    <h3> Human Activity Analysis in the Home Environment</h3>
+    <h3> Human Activity Analysis in Home Environment</h3>
     <p>
       This research focuses on developing novel deep learning models for analysing human activity within home environments. 
       The aim is to address both the technical and human-centered challenges that influence user acceptance and system performance in home activity monitoring. 

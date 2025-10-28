@@ -32,10 +32,10 @@ author_profile: true
   display: flex;
   flex-direction: column;
   gap: 3rem;
-  width: min(95%, 1800px); /* responsive max width that adapts */
+  width: calc(100% - 4rem); /* accounts for padding without using 100vw */
+  max-width: 1800px;
   margin: 0 auto;
-  padding: 0 2rem;
-  box-sizing: border-box; /* ensures consistent padding across browsers */
+  box-sizing: border-box;
 }
 
 /* ====== Each News Item ====== */

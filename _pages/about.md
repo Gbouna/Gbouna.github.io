@@ -51,7 +51,7 @@ redirect_from:
   display: flex;
   flex-direction: column;
   gap: 3rem;
-  max-width: 1200px; /*  make highlight section wider */
+  max-width: 90%; /*  make highlight section wider */
   margin: 0 auto; /* keeps it centered */
   width: 100%;
 }

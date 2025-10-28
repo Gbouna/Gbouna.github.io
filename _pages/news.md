@@ -46,10 +46,10 @@ author_profile: true
 /* ====== Each News Item ====== */
 .news-item {
   display: flex;
+  flex-direction: row; /* ensures horizontal alignment */
   align-items: center;
   justify-content: space-between;
   gap: 40px;
-  flex-wrap: wrap;
   background: #ffffff;
   border-radius: 16px;
   box-shadow: 0 6px 16px rgba(0,0,0,0.08);

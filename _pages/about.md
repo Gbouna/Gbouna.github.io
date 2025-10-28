@@ -64,7 +64,7 @@ redirect_from:
   flex-direction: column;
   gap: 3rem;
   width: 100%;
-  max-width: 1400px; /* sets how wide the content area can go */
+  max-width: 1000px; /* sets how wide the content area can go */
   margin: 0 auto; /* centers inside full-width section */
 }
 

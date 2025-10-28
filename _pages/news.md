@@ -38,7 +38,7 @@ author_profile: true
   flex-direction: column;
   gap: 3rem;
   width: 100%;
-  max-width: 1300px; /* Adjust for desired readable width */
+  max-width: 1500px; /* Adjust for desired readable width */
   margin: 0 auto;
   padding: 0 2rem;
 }

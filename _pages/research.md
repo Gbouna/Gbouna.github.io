@@ -7,64 +7,92 @@ author_profile: true
 
 {% include base_path %}
 
-<!-- ====== Styling ====== -->
 <style>
+/* ====== Intro Section ====== */
 .research-intro {
-  background: linear-gradient(to right, #f5f7fa, #e8eef3);
-  padding: 2rem;
-  border-radius: 12px;
-  margin-bottom: 3rem;
-  box-shadow: 0 4px 8px rgba(0,0,0,0.05);
+  background: linear-gradient(to right, #f5f7fa, #e8eef3);
+  padding: 2rem;
+  border-radius: 12px;
+  margin-bottom: 3rem;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.05);
 }
 .research-intro .intro-text {
-  max-width: 900px;
-  margin: 0 auto;
-  font-size: 1.05rem;
-  color: #333;
-  line-height: 1.7;
+  max-width: 900px;
+  margin: 0 auto;
+  font-size: 1.05rem;
+  color: #333;
+  line-height: 1.7;
 }
 
-  /* ====== Header ====== */
+/* ====== NEW: Full-Width Research Section ====== */
+/* This makes the entire section stretch full-width, like on your about page */
+.research-section {
+  position: relative;
+  left: 50%;
+  right: 50%;
+  width: 100vw;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  background: #ffffff;
+  padding: 2.5rem 0;
+  text-align: center;
+}
+
+/* ====== NEW: Content Container ====== */
+/* This container sits inside .research-section to center your grid */
+.research-container {
+  width: 100%;
+  max-width: 1000px; /* Sets how wide the content area can go */
+  margin: 0 auto; /* Centers inside full-width section */
+  padding: 0 2rem;
+}
+
+  /* ====== Header ====== */
 .pub-header {
-  background-color: #e4e4e4;
-  padding: 1rem 1rem;
-  text-align: center;
-  font-size: 2.2rem;
-  font-weight: 700;
-  color: #111;
-  border-radius: 10px;
-  margin-bottom: 2rem;
+  background-color: #e4e4e4;
+  padding: 1rem 1rem;
+  text-align: center;
+  font-size: 2.2rem;
+  font-weight: 700;
+  color: #111;
+  border-radius: 10px;
+  margin-bottom: 2rem;
 }
-  
+  
+/* ====== Research Grid (Your existing style) ====== */
 .research-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  gap: 2rem;
-  align-items: stretch;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 2rem;
+  align-items: stretch;
+  text-align: left; /* Resets text-align for cards */
 }
 
+/* ====== Research Card (Your existing style) ====== */
 .research-card {
-  background: white;
-  border-radius: 16px;
-  padding: 2rem;
-  box-shadow: 0 6px 12px rgba(0,0,0,0.07);
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  background: white;
+  border-radius: 16px;
+  padding: 2rem;
+  box-shadow: 0 6px 12px rgba(0,0,0,0.07);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 .research-card:hover {
-  transform: translateY(-5px);
-  box-shadow: 0 10px 18px rgba(0,0,0,0.1);
+  transform: translateY(-5px);
+  box-shadow: 0 10px 18px rgba(0,0,0,0.1);
 }
 .research-card h3 {
-  color: #8b0000;
-  font-weight: 600;
-  margin-bottom: 1rem;
+  color: #8b0000;
+  font-weight: 600;
+  margin-bottom: 1rem;
 }
 .research-card p {
-  color: #333;
-  font-size: 0.98rem;
-  line-height: 1.7;
+  color: #333;
+  font-size: 0.98rem;
+  line-height: 1.7;
 }
 </style>
+
+
 
 <div class="pub-header"> RESEARCH FOCUS </div>
 

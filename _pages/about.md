@@ -36,10 +36,21 @@ redirect_from:
   text-align: justify;
 }
 
-/* Research Highlights */
+/* ====== Research Highlights ====== */
+
+/* Make the entire highlight section stretch full-width */
 .highlight-section {
+  position: relative;
+  left: 50%;
+  right: 50%;
+  width: 100vw;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  background: #ffffff;
+  padding: 3rem 0;
   text-align: center;
 }
+
 .highlight-section h2 {
   color: #8b0000;
   font-size: 1.8rem;
@@ -47,13 +58,14 @@ redirect_from:
   margin-bottom: 2.5rem;
 }
 
+/* Container for highlight cards */
 .highlight-grid {
   display: flex;
   flex-direction: column;
   gap: 3rem;
-  max-width: 2600px; /*  make highlight section wider */
-  margin: 0 auto; /* keeps it centered */
   width: 100%;
+  max-width: 1400px; /* sets how wide the content area can go */
+  margin: 0 auto; /* centers inside full-width section */
 }
 
 /* Each highlight card */
@@ -68,6 +80,7 @@ redirect_from:
   box-shadow: 0 6px 16px rgba(0,0,0,0.08);
   overflow: hidden;
   transition: transform 0.3s ease;
+  width: 100%;
 }
 
 .highlight-card:hover {
@@ -80,7 +93,7 @@ redirect_from:
 
 /* Text Section */
 .highlight-text {
-  flex: 1 1 40%;
+  flex: 1 1 45%;
   padding: 2rem;
   text-align: left;
 }
@@ -97,24 +110,20 @@ redirect_from:
 
 /* Media Section */
 .highlight-media {
-  flex: 1 1 40%;
+  flex: 1 1 50%;
   position: relative;
   overflow: hidden;
   min-height: 250px;
   border-radius: 0 16px 16px 0;
 }
-.highlight-media img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-}
+.highlight-media img,
 .bg-video {
   width: 100%;
   height: 100%;
   object-fit: cover;
 }
 
-
+/* Highlight Links */
 .highlight-links {
   margin-top: 1rem;
 }
@@ -136,7 +145,8 @@ redirect_from:
   
 /* Responsive */
 @media (max-width: 900px) {
-  .highlight-card, .highlight-card.reverse {
+  .highlight-card,
+  .highlight-card.reverse {
     flex-direction: column;
   }
   .highlight-text {

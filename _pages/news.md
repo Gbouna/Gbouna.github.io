@@ -167,7 +167,6 @@ hr {
     <div class="link-group">
       <a href="https://doi.org/10.1007/978-3-031-67285-9_15" class="link-btn" target="_blank">Paper</a>
       <a href="https://github.com/Gbouna/Action-Recognition-for-Privacy-Preserving-Ambient-Assisted-Living" class="link-btn" target="_blank">Code</a>
-      <a href="https://www.youtube.com/watch?v=FExfkhTpHJA" class="link-btn" target="_blank">Demo</a>
     </div>
   </div>
 </div>

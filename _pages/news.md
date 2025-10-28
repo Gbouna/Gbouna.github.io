@@ -46,7 +46,7 @@ author_profile: true
 /* ====== Each News Item ====== */
 .news-item {
   display: flex;
-  flex-direction: row; /* ensures horizontal alignment */
+  flex-direction: row;
   align-items: center;
   justify-content: space-between;
   gap: 40px;
@@ -55,6 +55,10 @@ author_profile: true
   box-shadow: 0 6px 16px rgba(0,0,0,0.08);
   padding: 1.5rem;
   transition: transform 0.3s ease;
+  overflow: hidden; /* prevents any child overflow */
+  width: 100%;
+  max-width: 1800px; /* keeps it aligned with page layout */
+  margin: 0 auto; /* center it */
 }
 
 .news-item:hover {
@@ -63,17 +67,19 @@ author_profile: true
 
 /* ====== Image Section ====== */
 .news-item img {
-  width: 420px;
+  flex-shrink: 0; /* prevents image from shrinking in Edge */
+  width: 380px;
   height: auto;
   border-radius: 12px;
   box-shadow: 0 4px 10px rgba(0,0,0,0.1);
-  flex: 0 0 auto;
 }
 
 /* ====== Text Section ====== */
 .news-text {
-  flex: 1 1 50%;
-  min-width: 300px;
+  flex: 1 1 0;
+  min-width: 0; /*  critical fix for Edge text overflow */
+  word-wrap: break-word; /* prevent long lines from escaping */
+  overflow-wrap: anywhere; /* modern fix */
 }
 
 .news-text h2 {

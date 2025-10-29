@@ -105,7 +105,7 @@ redirect_from:
 
   <p><strong>Lecturer in AI and Data Science</strong>, University of Hull <em>(June 2025 – Present)</em></p>
   <ul>
-    <li>Module leader for <em>Programming for AI and Data Science</em>, coordinating assessments, designing teaching materials, and leading a team of tutors to ensure high academic performance.</li>
+    <li>Module leader for <em>Programming for AI and Data Science</em>, coordinating assessments and leading a team of Lecturers to ensure high academic performance.</li>
     <li>Develop and deliver innovative and inclusive teaching resources that blend theory with real-world application, ensuring engagement across diverse student cohorts.</li>
     <li> Supervise postgraduate dissertation projects,  guiding students through the research process from topic selection to completion.</li>
     <li> Serve as a personal tutor, offering academic and pastoral support that contributes positively to student wellbeing.</li>

@@ -131,7 +131,7 @@ body {
 
 <div class="publication">
   <div class="pub-text">
-    Maimunatu Tunau, <b>Vincent Gbouna Zakka</b>, Zhuangzhuang Dai. 
+    Maimunatu Tunau, <b>Vincent Gbouna Zakka</b>, Zhuangzhuang Dai (2025). 
     Enhanced Sparse Point Cloud Data Processing for Privacy-aware Human Action Recognition.
     <i>International Conference on AI in Healthcare.</i>
   </div>

@@ -106,6 +106,18 @@ body {
 
 <div class="publication">
   <div class="pub-text">
+    Dai, Zhuangzhuang and <b>Zakka, Gbouna Zakka</b>, and Manso, Luis J. and Li, Chen (2025). 
+    GazeTarget360: Towards Gaze Target Estimation in 360-Degree for Robot Perception.
+    <i>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS).</i>
+  </div>
+  <div class="link-group">
+    <a href="https://arxiv.org/abs/2507.00253" class="link-btn" target="_blank">Paper</a>
+    <a href="https://github.com/zdai257/DisengageNet" class="link-btn" target="_blank">Code</a>
+  </div>
+</div>
+
+<div class="publication">
+  <div class="pub-text">
     <b>Vincent Gbouna Zakka</b>, Zhuangzhuang Dai, Luis J. Manso (2025). 
     Action Recognition in Real-World Ambient Assisted Living Environment.
     <i>Journal of Big Data Mining and Analytics.</i>
@@ -114,6 +126,17 @@ body {
     <a href="https://doi.org/10.26599/BDMA.2025.9020003" class="link-btn" target="_blank">Paper</a>
     <a href="https://github.com/Gbouna/RE-TCN" class="link-btn" target="_blank">Code</a>
     <a href="https://www.youtube.com/watch?v=pQJrz4SVdi4&t=2s" class="link-btn" target="_blank">Demo</a>
+  </div>
+</div>
+
+<div class="publication">
+  <div class="pub-text">
+    Maimunatu Tunau, <b>Vincent Gbouna Zakka</b>, Zhuangzhuang Dai. 
+    Enhanced Sparse Point Cloud Data Processing for Privacy-aware Human Action Recognition.
+    <i>International Conference on AI in Healthcare.</i>
+  </div>
+  <div class="link-group">
+    <a href="https://link.springer.com/chapter/10.1007/978-3-032-00656-1_11" class="link-btn" target="_blank">Paper</a>
   </div>
 </div>
 

@@ -164,13 +164,7 @@ redirect_from:
   <div class="intro-content">
     <h2>Welcome!</h2>
     <p>
-      I conduct research on <strong>intelligent home environments</strong> that integrate 
-      <strong>computer vision</strong>, <strong>embedded AI</strong>, and 
-      <strong>human–computer interaction</strong> to support independent living and ageing in place. 
-      My work spans human activity recognition, user acceptance of ambient assisted living technologies, 
-      and occupant-centred control for energy-efficient home management. 
-      Across these directions, I focus on developing adaptive, privacy-preserving, and sustainable systems 
-      that promote user trust and comfort.
+    My research focuses on digital health, particularly the development of Ambient Assisted Living (AAL) technologies that support independent and healthy ageing. I combine     Artificial Intelligence (AI) and principles from Human-Computer Interaction (HCI) to develop human-centred technologies that understand activities and behavioural           changes in home environments while respecting the needs, preferences, privacy, and autonomy of their users. 
     </p>
     <p>
       Explore the <a href="{{ site.baseurl }}/Research/">Research</a> page for more insights into my ongoing projects.

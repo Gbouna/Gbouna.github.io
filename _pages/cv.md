@@ -105,10 +105,18 @@ redirect_from:
 
   <p><strong>Lecturer in AI and Data Science</strong>, University of Hull <em>(June 2025 – Present)</em></p>
   <ul>
-    <li>Module leader for <em>Programming for AI and Data Science</em>, coordinating assessments and leading a team of Lecturers to ensure high academic performance.</li>
+    <li>Module leader for <em>Introduction to Programming, Understanding AI, and Applied AI</em>, coordinating assessments and leading a team of Lecturers to ensure high academic performance.</li>
+    <li> Actively involved in research and teaching, and publishing in high-impact journals and conferences. </li>
     <li>Develop and deliver innovative and inclusive teaching resources that blend theory with real-world application, ensuring engagement across diverse student cohorts.</li>
-    <li> Supervise postgraduate dissertation projects,  guiding students through the research process from topic selection to completion.</li>
+    <li> Supervise research projects,  guiding students through the research process from topic selection to completion.</li>
     <li> Serve as a personal tutor, offering academic and pastoral support that contributes positively to student wellbeing.</li>
+  </ul>
+
+  <p><strong>External Academic Collaborator (AI Research & Doctoral Supervision</strong>, The Hong Kong Polytechnic University <em>(Dec 2025 – Present)</em></p>
+  <ul>
+    <li> External collaboration on AI-driven research in occupant-centric building control.</li>
+    <li> Co-supervision of a PhD student, providing expertise on the application of AI in solar photovoltaic post-disaster inspection. </li>
+    <li> Contribution to research development and academic publications. </li>
   </ul>
 
   <p><strong>Lecturer in Computing</strong>, Ulster University (QA Higher Education) <em>(Jan 2025 – Nov 2025)</em></p>
